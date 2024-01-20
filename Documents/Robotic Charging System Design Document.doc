@@ -1,0 +1,1128 @@
+{\rtf1\ansi\deff3\adeflang1025
+{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\froman\fprq2\fcharset2 Symbol;}{\f2\fswiss\fprq2\fcharset0 Arial;}{\f3\froman\fprq2\fcharset0 Liberation Serif{\*\falt Times New Roman};}{\f4\fswiss\fprq2\fcharset0 Liberation Sans{\*\falt Arial};}{\f5\froman\fprq2\fcharset0 Liberation Sans{\*\falt Arial};}{\f6\fnil\fprq0\fcharset2 OpenSymbol{\*\falt Arial Unicode MS};}{\f7\fmodern\fprq1\fcharset128 Courier New;}{\f8\fnil\fprq2\fcharset0 Arial;}{\f9\fnil\fprq2\fcharset0 Liberation Serif{\*\falt Times New Roman};}}
+{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;\red255\green64\blue0;}
+{\stylesheet{\s0\snext0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1 Normal;}
+{\s1\sbasedon16\snext1\dbch\af8\langfe1081\dbch\af9\afs36\ab\ql\nowidctlpar\hyphpar0\sb240\sa120\keepn\ltrpar\cf0\loch\f4\fs36\lang1033\b\kerning1 Heading 1;}
+{\s2\sbasedon16\snext2\dbch\af8\langfe1081\dbch\af9\afs32\ab\ql\nowidctlpar\hyphpar0\sb200\sa120\keepn\ltrpar\cf0\loch\f4\fs32\lang1033\b\kerning1 Heading 2;}
+{\*\cs15\snext15\dbch\af6\dbch\af6\loch\f6 Bullets;}
+{\s16\sbasedon0\snext17\dbch\af8\langfe1081\dbch\af9\afs28\ql\nowidctlpar\hyphpar0\sb240\sa120\keepn\ltrpar\cf0\loch\f5\fs28\lang1033\kerning1 Heading;}
+{\s17\sbasedon0\snext17\dbch\af8\langfe1081\dbch\af9\afs24\ql\sl276\slmult1\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1 Text Body;}
+{\s18\sbasedon17\snext18\dbch\af8\langfe1081\dbch\af9\afs24\ql\sl276\slmult1\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1 List;}
+{\s19\sbasedon0\snext19\dbch\af8\langfe1081\dbch\af9\afs24\ai\ql\nowidctlpar\hyphpar0\sb120\sa120\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1 Caption;}
+{\s20\sbasedon0\snext20\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1 Index;}
+{\s21\sbasedon0\snext21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1 Table Contents;}
+{\s22\sbasedon21\snext22\dbch\af8\langfe1081\dbch\af9\afs24\qc\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\b\kerning1 Table Heading;}
+{\s23\sbasedon16\snext23\dbch\af8\langfe1081\dbch\af9\afs56\ab\qc\nowidctlpar\hyphpar0\sb240\sa120\keepn\ltrpar\cf0\loch\f5\fs56\lang1033\b\kerning1 Title;}
+}{\*\listtable{\list\listtemplateid1
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow2{\leveltext \'00;}{\levelnumbers;}\fi0\li0}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow2{\leveltext \'00;}{\levelnumbers;}\fi0\li0}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow2{\leveltext \'00;}{\levelnumbers;}\fi0\li0}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow2{\leveltext \'00;}{\levelnumbers;}\fi0\li0}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow2{\leveltext \'00;}{\levelnumbers;}\fi0\li0}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow2{\leveltext \'00;}{\levelnumbers;}\fi0\li0}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow2{\leveltext \'00;}{\levelnumbers;}\fi0\li0}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow2{\leveltext \'00;}{\levelnumbers;}\fi0\li0}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow2{\leveltext \'00;}{\levelnumbers;}\fi0\li0}\listid1}
+{\list\listtemplateid2
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u8226 ?;}{\levelnumbers;}\f6\rtlch\dbch\af6 \ltrch\loch\fi-360\li720}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9702 ?;}{\levelnumbers;}\f6\rtlch\dbch\af6 \ltrch\loch\fi-360\li1080}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9642 ?;}{\levelnumbers;}\f6\rtlch\dbch\af6 \ltrch\loch\fi-360\li1440}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u8226 ?;}{\levelnumbers;}\f6\rtlch\dbch\af6 \ltrch\loch\fi-360\li1800}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9702 ?;}{\levelnumbers;}\f6\rtlch\dbch\af6 \ltrch\loch\fi-360\li2160}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9642 ?;}{\levelnumbers;}\f6\rtlch\dbch\af6 \ltrch\loch\fi-360\li2520}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u8226 ?;}{\levelnumbers;}\f6\rtlch\dbch\af6 \ltrch\loch\fi-360\li2880}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9702 ?;}{\levelnumbers;}\f6\rtlch\dbch\af6 \ltrch\loch\fi-360\li3240}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9642 ?;}{\levelnumbers;}\f6\rtlch\dbch\af6 \ltrch\loch\fi-360\li3600}\listid2}
+{\list\listtemplateid3
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u8226 ?;}{\levelnumbers;}\f6\rtlch\dbch\af6 \ltrch\loch\fi-360\li720}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9702 ?;}{\levelnumbers;}\f6\rtlch\dbch\af6 \ltrch\loch\fi-360\li1080}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9642 ?;}{\levelnumbers;}\f6\rtlch\dbch\af6 \ltrch\loch\fi-360\li1440}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u8226 ?;}{\levelnumbers;}\f6\rtlch\dbch\af6 \ltrch\loch\fi-360\li1800}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9702 ?;}{\levelnumbers;}\f6\rtlch\dbch\af6 \ltrch\loch\fi-360\li2160}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9642 ?;}{\levelnumbers;}\f6\rtlch\dbch\af6 \ltrch\loch\fi-360\li2520}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u8226 ?;}{\levelnumbers;}\f6\rtlch\dbch\af6 \ltrch\loch\fi-360\li2880}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9702 ?;}{\levelnumbers;}\f6\rtlch\dbch\af6 \ltrch\loch\fi-360\li3240}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9642 ?;}{\levelnumbers;}\f6\rtlch\dbch\af6 \ltrch\loch\fi-360\li3600}\listid3}
+{\list\listtemplateid4
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u8226 ?;}{\levelnumbers;}\f6\rtlch\dbch\af6 \ltrch\loch\fi-360\li720}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9702 ?;}{\levelnumbers;}\f6\rtlch\dbch\af6 \ltrch\loch\fi-360\li1080}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9642 ?;}{\levelnumbers;}\f6\rtlch\dbch\af6 \ltrch\loch\fi-360\li1440}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u8226 ?;}{\levelnumbers;}\f6\rtlch\dbch\af6 \ltrch\loch\fi-360\li1800}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9702 ?;}{\levelnumbers;}\f6\rtlch\dbch\af6 \ltrch\loch\fi-360\li2160}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9642 ?;}{\levelnumbers;}\f6\rtlch\dbch\af6 \ltrch\loch\fi-360\li2520}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u8226 ?;}{\levelnumbers;}\f6\rtlch\dbch\af6 \ltrch\loch\fi-360\li2880}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9702 ?;}{\levelnumbers;}\f6\rtlch\dbch\af6 \ltrch\loch\fi-360\li3240}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9642 ?;}{\levelnumbers;}\f6\rtlch\dbch\af6 \ltrch\loch\fi-360\li3600}\listid4}
+{\list\listtemplateid5
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow2{\leveltext \'00;}{\levelnumbers;}\fi0\li0}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow2{\leveltext \'00;}{\levelnumbers;}\fi0\li0}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow2{\leveltext \'00;}{\levelnumbers;}\fi0\li0}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow2{\leveltext \'00;}{\levelnumbers;}\fi0\li0}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow2{\leveltext \'00;}{\levelnumbers;}\fi0\li0}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow2{\leveltext \'00;}{\levelnumbers;}\fi0\li0}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow2{\leveltext \'00;}{\levelnumbers;}\fi0\li0}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow2{\leveltext \'00;}{\levelnumbers;}\fi0\li0}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow2{\leveltext \'00;}{\levelnumbers;}\fi0\li0}\listid5}
+}{\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}{\listoverride\listid5\listoverridecount0\ls5}}{\*\generator LibreOffice/7.0.0.3$Windows_X86_64 LibreOffice_project/8061b3e9204bef6b321a21033174034a5e2ea88e}{\info{\creatim\yr0\mo0\dy0\hr0\min0}{\revtim\yr2024\mo1\dy20\hr8\min23}{\printim\yr0\mo0\dy0\hr0\min0}}{\*\userprops}\deftab709
+\hyphauto1\viewscale100
+{\*\pgdsctbl
+{\pgdsc0\pgdscuse451\pgwsxn12240\pghsxn15840\marglsxn1134\margrsxn1134\margtsxn1134\margbsxn1134\pgdscnxt0 Default Page Style;}}
+\formshade{\*\pgdscno0}\paperh15840\paperw12240\margl1134\margr1134\margt1134\margb1134\sectd\sbknone\pgndec\sftnnar\saftnnrlc\sectunlocked1\pgwsxn12240\pghsxn15840\marglsxn1134\margrsxn1134\margtsxn1134\margbsxn1134\ftnbj\ftnstart1\ftnrstcont\ftnnar\aenddoc\aftnrstcont\aftnstart1\aftnnrlc
+{\*\ftnsep\chftnsep}\pgndec\pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \pard\plain \s23\dbch\af8\langfe1081\dbch\af9\afs56\ab\qc\nowidctlpar\hyphpar0\sb240\sa120\keepn\ltrpar\cf0\loch\f5\fs56\lang1033\b\kerning1\ltrpar{\loch
+Communication System Design}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \pard\plain \s2\dbch\af8\langfe1081\dbch\af9\afs32\ab\ql\nowidctlpar\hyphpar0\sb200\sa120\keepn\ltrpar\cf0\loch\f4\fs32\lang1033\b\kerning1{\loch
+Document History}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \trowd\trql\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrhair\brdrw1\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrhair\brdrw1\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrhair\brdrw1\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3324\clbrdrt\brdrhair\brdrw1\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrhair\brdrw1\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrhair\brdrw1\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx6648\clbrdrt\brdrhair\brdrw1\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrhair\brdrw1\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrhair\brdrw1\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrhair\brdrw1\brdrcf1\clpadfr3\clpadr55\cellx9972\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc{\rtlch\ab \ltrch\b\loch
+Date}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc{\rtlch\ab \ltrch\b\loch
+Author}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc{\rtlch\ab \ltrch\b\loch
+Description}\cell\row\pard\trowd\trql\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clpadfl3\clpadl55\clbrdrl\brdrhair\brdrw1\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrhair\brdrw1\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3324\clpadfl3\clpadl55\clbrdrl\brdrhair\brdrw1\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrhair\brdrw1\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx6648\clpadfl3\clpadl55\clbrdrl\brdrhair\brdrw1\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrhair\brdrw1\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrhair\brdrw1\brdrcf1\clpadfr3\clpadr55\cellx9972\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql{\loch
+2024-01-20}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql{\loch
+Vincent Lao}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql{\loch
+Initial Draft}\cell\row\pard\trowd\trql\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clpadfl3\clpadl55\clbrdrl\brdrhair\brdrw1\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrhair\brdrw1\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3324\clpadfl3\clpadl55\clbrdrl\brdrhair\brdrw1\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrhair\brdrw1\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx6648\clpadfl3\clpadl55\clbrdrl\brdrhair\brdrw1\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrhair\brdrw1\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrhair\brdrw1\brdrcf1\clpadfr3\clpadr55\cellx9972\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\loch
+\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\loch
+\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\loch
+\cell\row\pard\pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \pard\plain \s2\dbch\af8\langfe1081\dbch\af9\afs32\ab\ql\nowidctlpar\hyphpar0\sb200\sa120\keepn\ltrpar\cf0\loch\f4\fs32\lang1033\b\kerning1{\loch
+Introduction}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql{\loch
+This is the design document of a robotic charging network. This robotic charging network supports the following:}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\listtext\pard\plain \dbch\af6\dbch\af6\loch\f6 \u8226\'95\tab}\ilvl0\ls4 \li720\ri0\lin720\rin0\fi-360\ql{\loch
+Multiple independent robot}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\listtext\pard\plain \dbch\af6\dbch\af6\loch\f6 \u8226\'95\tab}\ilvl0\ls4 \li720\ri0\lin720\rin0\fi-360\ql{\loch
+Multiple charging station}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\listtext\pard\plain \dbch\af6\dbch\af6\loch\f6 \u8226\'95\tab}\ilvl0\ls4 \li720\ri0\lin720\rin0\fi-360\ql{\loch
+Automatic identification and searching}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\listtext\pard\plain \dbch\af6\dbch\af6\loch\f6 \u8226\'95\tab}\ilvl0\ls4 \li720\ri0\lin720\rin0\fi-360\ql{\loch
+Charging station path location }{\rtlch\dbch\af8\langfe1081\dbch\af9\afs24 \ltrch\cf0\fs24\lang1033\kerning1\loch
+broadcast to allow robot to find the know where to go}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\listtext\pard\plain \dbch\af6\dbch\af6\loch\f6 \u8226\'95\tab}\ilvl0\ls4 \li720\ri0\lin720\rin0\fi-360\ql{\loch
+Automatic disconnection detection via heartbeat implementation}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\listtext\pard\plain \dbch\af6\dbch\af6\loch\f6 \u8226\'95\tab}\ilvl0\ls4 \li720\ri0\lin720\rin0\fi-360\ql{\loch
+Basic packet protection }{\rtlch\dbch\af8\langfe1081\dbch\af9\afs24 \ltrch\cf0\fs24\lang1033\kerning1\loch
+by implementing}{\loch
+ robot/charging station exclusive communication while charging is in progress}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\li720\ri0\lin720\rin0\fi0\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\li720\ri0\lin720\rin0\fi0\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\pagebb\ql\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \pard\plain \s1\dbch\af8\langfe1081\dbch\af9\afs36\ab\ql\nowidctlpar\hyphpar0\sb240\sa120\keepn\ltrpar\cf0\loch\f4\fs36\lang1033\b\kerning1{\listtext\pard\plain  \u8203\'3f\tab}\ilvl0\ls1 \li0\ri0\lin0\rin0\fi0\ql\li0\ri0\lin0\rin0\fi0\ltrpar{\loch
+Operation Description}
+\par \pard\plain \s17\dbch\af8\langfe1081\dbch\af9\afs24\ql\sl276\slmult1\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\sl276\slmult1\ql\ltrpar\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+{\shp{\*\shpinst\shpwr2\shpwrk3\shpbypara\shpbyignore\shptop0\shpbottom8700\shpbxcolumn\shpbxignore\shpleft2129\shpright7844{\sp{\sn shapeType}{\sv 75}}{\sp{\sn wzDescription}{\sv }}{\sp{\sn wzName}{\sv }}{\sp{\sn pib}{\sv {\pict\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw381\pich580\picwgoal5715\pichgoal8700\pngblip
+89504e470d0a1a0a0000000d494844520000017d000002440802000000758663fe00000006624b474400ff00ff00ffa0bda7930000200049444154789cecdd79
+5c13d7fa30f09310c864c100610dab8afbd65ad7562c155994cd8a2b45b9828aa5d6d0425f975ed4d6a5b7b60a2e17ad15f4de2ab815b0604b45c5821b56a58a
+48555aa0282a8bb506080261de3fceaff3c94dc21016270c3edfbf92b3cd7366324f6626cb704892440000c020aea1030000bc7420ef00009806790700c034c8
+3b0000a641de0100300df20e008069907700004c83bc0300601ae41d0000d320ef00009806790700c034c83b0000a641de0100300df20e0080693d25ef9c3973
+66ce9c39f6f6f67c3e5f2a957a78787cf3cd37adadad868eeb858b8a8ae270381c0ee7975f7ee9de91bffbeebbcb972f33b0209d5a5b5bf7eddbf7d65b6f5959
+59191b1b4ba5d2c99327efd9b347a55275fbb23466ca98989818ceff120a854e4e4e73e6ccc9cfcfefde6531bcf95e38d2d09a9b9bc3c3c375c6e6e5e5a5542a
+0d1de08b2597cbf1640b0a0aba6bccf2f2725f5f5f84505a5ada0b5d505b9a9b9bfdfcfc746e534f4fcfe7cf9f77d78274ce9431d1d1d16ded564646467bf7ee
+edc66531b9f918c0eb6cbeea361f7ef86162622242c8c8c8c8d3d3d3d9d9f9d75f7ffde9a79f1042a74e9d8a8e8efef7bfff6de8185fa071e3c685868622842c
+2c2cba6bccd4d4d493274f32b0a0b61c38702033331321646666366bd62c5b5bdbdf7ffffddb6fbf7dfefc797676767c7cfcfffb7fffaf5b16a473a6cc7bfbed
+b7870e1ddad2d2f2d75f7fe5e6e6debe7d5ba5524546468e1c3972fcf8f1ddb20826371f130c9bf60a0a0a70181289e4f2e5cb54796a6aaa91911142c8d8d8f8
+f1e3c7068c908de2e2e2f05a35c85100499281818138807bf7ee5185478f1ec585afbcf24a772dc8b033a58e77525252a8429c7170b9b7b737f351b18281f3ce
+b265cbf0168a8b8bd3a80a0d0df5f0f0f8e4934feedfbf4f151e3f7edcc3c3432a951204317cf8f00d1b36d4d5d551b56fbcf10642e88d37def8e5975f7c7d7d
+4d4d4d4d4d4d0303037ffffdf7f2f2f277de79c7dcdc5c2c167b7979ddbe7dbb8bbdf09b0f42a8b4b4942a94482408a151a346e1a7efbdf71e4288cfe73f79f2
+64c58a150e0e0e7c3e7ff8f0e1fff9cf7fa82e3a8f9f954ae5a64d9b860d1b461084a5a5e5a449938e1e3daabe727273737d7d7dededed8d8d8d2d2c2cdcdcdc
+92939371153eef5087476eeb409d7e95ea33056d3e3e3e7859a74e9da20a5b5a5a366ddab461c386ad5bb792243973e64cdce6e2c58b549b2b57aee0c2b0b030
+9224552ad58e1d3b468f1e2d1289783c9eadadedcc99336fdcb8413f5392241f3d7ab46cd932994c666262e2ececbc7cf9f2478f1e75718b6bd399774892acaf
+afc7af040e87535b5bab4f48f4336d6bf33d7efc383c3cdccaca4a2412797878fcf2cb2ff865299148bab2f91860e0bc3364c810bc36fff8e38f761b2f59b244
+fb786dc48811d5d5d5b8017e3d5959590904022e97cbe5fedf55731717176b6b6b84108ff77fe795b6b6b67ffdf557577ae99f77783cdee0c183114226262654
+d8274f9ec46db45f4f4aa5f2f5d75fd79ee9e6cd9b718373e7cea90f45c12fa60ee59d7657a93e53d0b675eb56dc86cbe57a7b7befdab54b7b074e4f4fc76d3e
+fcf043aa70d5aa55b8f0cc99332449befffefbdae1f5e9d3a7b0b09066a60f1e3c707676d6a8727474a4dec03ab7c5b5b5957748929c366d1aaefae1871ff409
+897ea63a37df93274ffaf7efafde5e2c168f19330669e59d8e6e3e061838efe015411044bb2dbffefa6bbcbea452e9e6cd9b77efde3d76ec585ce2efef8fdbe0
+d71342c8c7c7e7c99327d5d5d5d486b1b3b3bb75eb565353d3dcb97371c9912347bad24bffbc8310727676c6ef5d9f7df6192ef1f5f5c56db45f4fb1b1b1b864
+f2e4c9696969870e1d72707040081919199597975301f7e9d3e7d0a143972f5fa676720f0f0f92247ff9e59777df7d17977cf2c927d9d9d90a8542e782f459a5
+fa4c419b52a9d4beaee1e4e4b46ad52aeaacb9a9a9c9d2d2128f4c751c34681042482693a954aaa74f9fe273edb973e7969696565757efdbb78fc3e12084de7f
+ff7d9a99befdf6db08210e87b37efdfaf3e7cf7ff9e597388fcc9a35ab2b5b5c1b4dde59ba7429ae4a4c4c6c37a47667aa73f351a9ea8d37dec8caca3a7efc78
+bf7efd708946dee9e8e6638021f34e6363235e05666666ed361e387020def76edebc894b9e3f7f8eb33842e8d6ad5ba4daeb896af3c1071fe012ea60e1f8f1e3
+b8e4cb2fbfc4259debd5a1bcb37fff7e5ca252a90402014268f0e0c1b844fbf5646767875f3ad43bed8913273c3d3d6362628a8a8a48922c2e2e4e4e4ecec8c8
+a0968bdf4b870c19829feabceaa1bd207d56a93e53d0a9bebe7ed5aa55e6e6e6e87f595959fdfcf3cfb80db5e7e0925bb76ee1a7d1d1d1244996959551fbd599
+3367f0a760d7ae5d7bfaf429b514ed99565555e1e3973973e650cd707ae2f1787895766e8b6ba3c93b515151b82a3e3ebedd90f499a9f6e6c3595b2c1653a772
+376edcc0d94a3bef7474f3bd6886fcfe0e9fcfc759bfa1a181be656565e5ddbb7711426e6e6e23468cc0852626268b172fc68ff3f2f2d4db53a76f62b1183f18
+366c187ed0a74f1ffc80ca7a5deca50f6a1c2e978b3f8f686b9c870f1f3e7cf81021f4da6baf510b0d08083875ead4175f7c3174e85084d0e0c183e7cf9f3f7a
+f4e8a3478fc6c4c48c1933a6bcbc1c21d4d2d2a27f481d5da5fa4f01130a859f7df6d9a3478fb2b3b357ae5c3966cc18bcef555757cf9b370f7f336be1c285b8
+f1b7df7e8b104a4d4dc54fdf79e71d84909393139eef850b173c3c3ccccccc3c3c3cce9e3d4bbfdcebd7afe3c1af5cb932f56f67ce9c4108b5b4b4141616aa37
+7e715b5ca95452eba1dd903a31d3cacaca9a9a1a84d0b871e3a84fb8468e1c491df268e8e8e67bd10cfcbd41474747845053531395f229274f9e4c4949512814
+08a1dada5a5c686f6fafde867afae4c913aad0c4c4843a3fa74edda917167e43400891ff7be3b0cef5d228696bcfa7c6417f5f3bd01e07fbebafbff0039a8f4b
+8b8a8adcdcdcecedede7ce9dbb75ebd69b376f1a1b1bab87ad8f0eadd20e4d010f5e585878efde3d131393a953a7feeb5ffffaf9e79f6fddba858fcb7efbed37
+fc35bf3163c6e0fd4d3def0c1932e4d5575f450871389cf4f4f4091326e031954ae5d9b3673ffae8a3be7dfb52194adb9f7ffe891f9495959df91bceb0eab346
+5dd8e2fa78f0e0017e606b6bdb6e489d98695d5d1d7e20954ad5cbadacac74b6efd0e6638081f3cee4c993f103fcca53b77efdfae0e0606b6bebdcdc5c7cb50f
+a96d4eecfefdfbf881faeaa65e31eadadd273bda8b6adfdcdc8c1fa8542aea5d4e9fc175c2676a0821fc6e862995caebd7afe3c19b9a9aa64d9b76fefc791313
+13b95c9e9595f5e4c993be7dfbd247abad43abb44353282828b0b4b41c3972247538830d193284fa32213ea6437f1ff2dcbb77efc48913f89bb8212121549701
+03065cba74e9c68d1b1b376ef4f0f01089440821a552191e1eded6f79e4d4d4df183d5ab576b1fde070404d0cfa843ebb02d2d2d2df8fbca1c0e67fcf8f1fa84
+d4d199dad8d8e0078f1e3d522fafacacd41992fe9b8f1906ce3b111111f8c1860d1b7efef967aafcf3cf3fbf7af52a42882088d1a347dbd8d8e003c8bcbcbca2
+a222dca6b9b9392929093f7ef3cd37198d1b21fcca406a5bbaa0a0a0eb3fecb0b3b3b3b5b54508e5e7e7575757e3c213274ebcf6da6b62b1382121e1ead5ab15
+151508a1152b56c4c7c77b7b7b8bc562fc8e4abdb6a89d87269e17b74a478c18812f3d5cbe7c392525852aafa9a9c15f264408393939e107212121385afc9d17
+0e87131c1c8cab4a4a4a76efdebd62c58a67cf9e7dfcf1c7a74f9faeadadc5513d7dfa14a74bed998e1a350a3fc8cecea616fdc9279fc8e5f2afbffe9a99938b
+ad5bb7e26de7eded6d6d6ddd6e48facc54834422a15e27548373e7cefdf1c71f2f7a76ddc2c0df579e3871625858585252d25f7ffdf5faebaf7b7b7b3b38385c
+bb760d271d84d0c71f7f8c0f11df7befbde8e868954ae5eeee1e1d1d6d6e6ebe7ffffee2e26284d0ac59b3f02552260d1830003ff8e8a38fe2e3e36b6a6a6262
+62ba65e4f0f0f04d9b3629954a3737b7152b563435356ddebc19574d9f3e9d3ac0fef5d75f5b5b5bb95ceef6eddbf1abbca9a90957513971fffefde5e5e58181
+813a4ffb5fd02ae5f178cb972f5fbf7e3d4228383838313171d8b0617ffef967666626ce8f43870ec51ff72284ecededa74c9972faf4699cbe5f7ffd75171717
+5cf5d75f7fe16474ead4a9c4c4445757d77bf7eee19c6b666686f73a9d339d3a75eae9d3a7af5ebdba6cd9b2a54b971614146cd8b041a552bdf6da6b3abf37d0
+75c78f1ffff5d75f49926c6868c8cdcdc5df42e2f1787825383838d087a4cf4cb5e1d749535393a7a7e7471f7df4e4c9938d1b37be88d9bd102fee92b59e1a1b
+1be7cd9ba733b67ffce31f2a950a376b6d6d9d3f7fbe769bd1a3473f79f204b7c19f53f0f97c6af075ebd6e166393939b8847acfd9b06143577a55565652971e
+b1be7dfbe27736edcfb38a8b8ba9c1f1350eeac363edcf291a1a1a747eb97edbb66d2449aa542aaad6c5c5059f61e1eb3b62b1b8a5a58524c96bd7aea9773c71
+e284ce05e9b34af59982b6e7cf9f6b7fb90633333353ff3a1c4992df7cf30d559b9090a05ed5d6cf29f6eddb871be89ce9ddbb77b52f73f4e9d3e7dab56b5dd9
+e2dae87f9ff5d5575f512ddb0da9dd996a6fbedada5abcf5298e8e8ef882a9b9b97957361f030cff7b743e9f9f9292929191e1efef6f6d6dcde3f12c2d2da74d
+9b969e9ebe7fff7eea409ac3e12427271f3d7a74ead4a9161616f8cbb59b366d3a7ffebcf687b50cb0b3b33b7bf6ec5b6fbd25140aadadad972e5d7ae5ca157c
+7ed1450281e0ecd9b39f7efae9902143f87cbeb5b5f55b6fbd959999893febe572b9274e9c080d0db5b3b3aba9a9e9d3a7cf962d5bb66cd98210aaabab3b7dfa
+344268f4e8d19b366dead7af1f9fcf1f346890467ea4bcb8556a6262929191f19ffffc67ead4a952a994c7e39999998d1c39322626e6d75f7f1d3972a47ae3b7
+df7e1b5fe93436369e33678e7ad5e79f7f9e9696e6e9e92993c9783c9e542af5f1f1f9f1c71fa91f12eb9ce98001030a0a0a2222221c1d1d4d4c4cecedede7cf
+9f9f9f9f3f7af4e8ae4c4a1f7c3edfd9d9392424243f3f9ffa0a8f3e21b53b536d161616172e5ca0be5dfdf6db6fe7e5e5e18f238442e18b9e69177148835ed6
+06203737175fcbf0f5f5a52e0081766566660a8542070707171717ea8bc8cecece7ffcf1c76bafbd465da9e8990cff7b74f072faf3cf3f7ffae9278542b176ed
+5a5cb268d122c386c42edbb66dcbc9c94108cd9e3d3b2626a6b5b5f5f0e1c3f8baf2a449930c1d5d3be0780718466565a5fa5787c68f1f7ff1e2c56ef918fb25
+9191913163c60ced8f2ccdcdcd0b0a0ab47f0ed6a3c0660686616b6bdbb76f5f3e9f6f6f6fbf78f1e293274f42d2e9107f7fffececec808000994c666c6c6c62
+62e2e2e2121e1e7eeddab51e9e74101cef00009807ef300000a641de0100300df20e008069907700004c83bc0300601ae41d0000d320ef00009806790700c034
+c83b0000a641de0100300df20e008069907700004c83bc0300601ae41d0000d320ef00009806790700c034c83b0000a641de010030ad63f793e86977593614f8
+73d89710bcf8dba5ff7ed1e1fbd8c02e07afbf9716bcf8697468bf80f32c0000d320ef00009806790700c034c83b0000a641de0100300df20e00806990770000
+4c83bc0300601ae41d0000d320ef00009806790700c034c83b0000a641de0100300df20e008069907700004c6328efecdab58ba34528143a3939cd9f3ffff6ed
+dbfa0f3563c60c0e87f3f4e9d3aec4939f9f7feedcb9ae8c0040877cfffdf73366ccb0b5b5353131b1b5b5f5f5f53d76ec98469b4ebc2c35bacc9a358bc3e13c
+7af4a8cbf1be588c1eefbcf2ca2befa879ebadb75a5a5a0e1f3e3c61c284bb77ef3216465656d6ebafbf5e5252c2d812c14b6ee5ca95bebebedf7df79d442219
+3f7ebc4422c9caca9a33674e484808f55f629d7859b2f795dce1ff1bec8ab973e7ae5ab54abda4b1b1313c3c3c393979fdfaf5c9c9c9cc84515353d3dadacacc
+b200b87efdfa962d5bfaf7ef7fe2c48961c386e1c2dbb76f0705051d3a74c8c7c72724240475ea65a9dd65dfbe7dbb76edb2b6b6eeaee05f10035fdf2108222e
+2e0e21949d9d6dd848007841b2b2b21042ebd7afa7920e4268e8d0a17bf7ee45081d3a74a81b97656666666b6bcbe5f6f4ebb6868fcfcacacac4c4a4aeae8e2a
+a9aaaa5abe7cb99393938989898383434444446565a546af8a8a8aa0a0205353537373f3d9b367dfb97347bd966684909090050b162084962c59c2e1707efdf5
+d7173c3f001042e8cf3fffd42879fdf5d73ffffcf3f0f070d4f6cbf2c68d1bc1c1c10e0e0e262626128964f2e4c9274e9cc0553abb685cdfa1df95f0f5a6df7e
+fb6dce9c3952a9542814befefaeb384bbe70644774b43d65e7ce9d08a1cf3efb4cbbeaa79f7e4208bdf2ca2bf8697979b9bdbd3d4268f2e4c92b56ac9832650a
+42c8ceceeeb7df7ec30d0203031142b6b6b6fdfbf78f8989090c0ce47038e6e6e677eedcd1678453a74e2d5cb81021141c1cbc73e7ce3ffffcb3a373e9f44a00
+acd6e9ed7ef3e64d2e972b168bb76cd9f2e0c1039d6d74be2c2f5fbe2c10084c4d4d172c581013133373e64c1e8fc7e1704e9d3ad55697a0a02084d0c3870f49
+fd76259148646d6d3d6ddab4afbffe7acb962d52a9d4c8c8a8a0a0e045af1f83e59dd6d6d6274f9ea4a7a73b3a3a22840e1c3880cbfdfcfc10423b77eea45aee
+debd1b213465ca14fc14e79dd1a347d7d7d7e392c4c44484504040809e237cf3cd3708a1afbffeba737381bcf372eaca76dfbb772f9fcfc7eff4c3860d8b8c8c
+4c4d4dadabab536fa3fdb2f4f4f4e4703857af5ea54a8e1e3d8a105ab468515b5dd4f38e9ebb12351a499299999908a1c8c8c84eccb1e7e61d9db85c6e747474
+6b6b2b49923535351c0e67ecd8b11addc78f1f8f102a2d2d25ff5e59df7fffbd7a83575f7dd5c8c8e8e9d3a7fa8c007907744217b77b4949c9ca952b870c1942
+bdf24d4d4d3ffbec33954a851b68bf2cd3d3d3131313d507a9a9a94108f9fafab6d585ca3bfaef4a172e5ca06af1c9a09797572726d8a1f5c3e8f59dc18307fb
+fafafafafabef1c61bf8d2d7a2458beeddbbf7e5975fe29befdcbc799324c937df7c53a3a39b9b1b42e8c68d1b1a2594891327aa54aa5bb76ee93f02004ceadf
+bfffbffef5afdbb76f5756561e3a74e89d77de79fefcf9ead5ab3ffcf0c3b6ba0406068685853d79f2e4a79f7e4a4a4a8a8989f1f5f54508a954aa7617a7ff8e
+d0b76f5feab1582c46083535357570721dc668de090d0dcdcccccccccc3c7ffe7c6161a1a3a3e337df7c73e1c205aac1b367cf10427dfaf4d1e82893c91042f5
+f5f5f8699f3e7df00aa25858582084eaeaeaf41c010026353434508fedecec8283830f1e3c78e3c60da954ba6bd7ae870f1feaecf5c71f7fcc9e3ddbcacacadd
+dd3d3c3cfcc89123fdfaf543fadd3e50ff1dc1d8d858a38d3ee37791c13ecf1a3a74e88913278c8c8c162d5a949b9b8b0b4d4d4d1142da9f5ee1c33fa9548a9f
+6ae76385428110b2b0b0d073040098f1fcf9738140f0c61b6f68570d1e3c78eedcb92a954ae787aa2a95cac7c7e7f8f1e3111111393939353535151515f84b27
+fae8e13b82213f477ff5d5573ff9e413954af5ce3befe0c43172e4480e8773f1e2458d8c8b1313756edcd8d8585e5eaedee0faf5eb262626c3870fd76704b8d1
+30600c9fcfefdfbfff8d1b37ae5fbfae5dfbc71f7f2084f0d7fc345e9657af5e2d2e2ef6f6f64e4848707777c799027fad9f7a6dd3bc92f5dc950cc5c0dfdf89
+8989193b76ecfdfbf7f1f7982d2d2da74f9f7ef3e6cd5dbb76516d0e1c38f0d34f3f4d9e3cd9c9c9892adcbe7d3bf5f8e2c58be7cf9f9f3f7fbe4020d067047c
+60f9d75f7f31304100a2a3a34992f4f7f74f4b4b6b6969c1858d8d8d9b366d3a79f2e4e8d1a3f1f709355e96f8f32ff513a2bababad5ab5723849a9b9b7109cd
+2b59ff5dc9305edc256b7534dfdfb979f3a6b1b13187c3397ffe3c4992a5a5a5f81474ca94291f7ef8a1b7b73742c8d6d6f6eeddbbb87d6060208fc7130a85cb
+962dfbe1871fb66fdf6e6e6edeb76fdfaaaa2adca0dd112e5dba8410ead3a7cfd4a9536fdfbeddd1b9747a250056ebca7697cbe578773333331b3d7af42bafbc
+2210081042767676d4f7ce345e962d2d2dafbefa2a42c8dbdbfbb3cf3e8b8e8e76747414894442a170e4c8913abb90fffb39ba3ebb1242a8baba9a8a1367b437
+df7cf345af1fc3e71d9224fff9cf7f2284860c19f2fcf97392242b2b2b972d5b666f6f6f6262e2ececbc7cf972bc1eb1c0c040894472f1e2c549932611042195
+4ac3c2c21e3d7aa43e20fd082449cae572894422168b3332323a3a17c83b2fa72e6ef73367ce040707bbb8b808040291483462c488d8d8588dafad6abc2c1f3c
+78b070e142994c261008060c18b060c182bb77ef06040470389c8a8a0a9d5dd4f30ea9c7ae64a8bcc3213b72ed9ac3e958fb5e0956c2cb09b63bbd0ead1fc3ff
+3e0b00f0b281bc0300601ae41d0000d320ef00009806790700c034c83b0000a641de0100300df20e008069907700004c83bc0300601ae41d0000d320ef000098
+06790700c034c83b0000a641de0100300df20e008069bc8e76803f45072f2d78f17717f6fd851afced1b0088e53b029c6701009806790700c034c83b0000a641
+de0100300df20e008069907700004c83bc0300601ae41d0000d320ef00009806790700c034c83b0000a641de0100300df20e008069907700004c83bc0300601a
+e41d0000d320efbc7062b198f3371e8f2793c9a2a2a2542a157dafdcdc5c5f5f5fa9542a168bc78e1d9b9898a83e607a7aba7a631f1f9f989818edc56162b1b8
+dd48c2c2c2faf5eba75028a8311f3c78606161b17bf76efa38e5723987c3c9cfcfa74aa64e9dba78f1628d66fefefe2b56aca0e985107277775fbf7e3d42a8b1
+b191c3e19c3f7f5ecf25e2f61897cb954aa573e7ceadaeaea6198a662d0126906cc3ba984522514a4a8a42a1502814b5b5b5191919a6a6a63b76eca0e972e8d0
+218140f0cf7ffeb3a0a0a0b4b4342929c9dada3a3c3c9c1a302d2d4dbdbdb7b77774743455bb6fdfbe0a350f1e3c6837128542e1eaeaba68d122dcb2b5b5d5d3
+d3f3edb7dfa69f5a434383b9b9797878f8fcf9f3a9c2e3c78f9b9a9ad6d7d75325f7efdfe7f178b76fdfa6e94592e49b6fbeb96edd3a9224954a2542282f2f4f
+cf25e2f6a9a9a9151515e5e5e5172f5e1c366cd8e2c58b6986a2594b6cc1ba1d415d87ff5f1974024110d4dba99f9f9f9797d7d5ab57db6adcd0d0101919f9af
+7ffd8b3a4058b468d19831635e7df5d5e0e0e02953a6b4bb38a954eae0e0d0a148c462f1a14387de78e38dc0c0c0c0c0c09d3b77deb973e7975f7ea15fd0e1c3
+875d5d5d636363070d1a5459592993c91042818181a6a6a6c78e1d0b0d0dc5cd929292dcdcdc860c1942d34b4f347dadacacf0ac0982b0b0b0b0b5b5a51f8a66
+2d81170dceb3989697979793933361c284b61a9c3d7b56a1502c59b244bd70c488116e6e6ea9a9a92f2e9271e3c6ad5bb72e3232f2faf5ebb1b1b1c9c9c9e6e6
+e6f423ecd9b3272222c2d9d9d9d3d33321210117f278bcc58b17efdfbf1f3f6d6d6d4d4a4a8a8c8ca4efa5279abe1e1e1e0441f0f97c1b1b9bbababa952b5776
+6864c028431f707518eb6216894442a150229148241282206432d9dab56b5b5a5ada6abf77ef5e6b6b6bedf2050b16cc9c3993d4e33c8b2008911ab95cae6724
+2a95cacdcd4d20106cd8b0a1dd79151414989999e1f3a9acac2c4b4b4ba55289ab2a2a2a783cde6fbffd86ab643259737373bbbdda3dcf6aab2f6e7fe8d0a1e2
+e2e2a2a2a253a74e8d1933c6cfcf8f66289ab5d4a3e4e4e4b455c5ba1d411d9c6731212e2ececbcbebf1e3c772b9dcc5c565cd9a354646466d35b6b3b3abaeae
+6e6868100a85eae595959503070e44081104d1d4d4a45ed5d4d4441084fae2a64e9d4a3d9548247a46c2e57257ae5c191818b866cd9a7627b57bf7eebaba3a27
+2727fcb4b6b6363939392c2c0c21e4e0e0e0e7e7b77ffffe0d1b367cfdf5d74b972ee5f178edf6eaca1211424e4e4e83070f46080d1d3ad4d4d474e2c4891515
+155656566d8d46b3967a8ee9d3a77ffffdf7eeeeee860ea4bb193af17518eb62563f3c79faf4e980010366cf9e4dd3bebebe5e22916cddba153f4d4c4ccccece
+2e2e2e363636fef1c71f49921c356a94faf1884aa5b2b3b3dbb3678ff6e23a11c90f3ffc606464d4eea49e3d7b26168b333232a8ebb2ab56ad1a397224d5e0c7
+1f7f7474747cfcf8b15028a42ed9d2f7a23fdea1e9abddfee2c58b08a1b2b2329ae39db6d6528f8210120a853a8f7a58b723a8635fe8ac5bdd1a2ff16bd7ae19
+1b1b536942a794941482206263630b0b0be3e3e34d4d4dfbf4e9131212826b3ffffc733333b3fffce73f77eedcb974e9d2c2850bfbf4e9f3f0e1436a711a9fd4
+545454e0d31c7d22d133ef242424f4ebd74fbda4bcbc9ccbe5527b486b6bababab6b7070f0ac59b3f4eca59177f0e753d4874d347d35da5fbd7ad5cdcd6ddcb8
+716d0d45bf967a147c7020140acf9c39a35d659090ba05fb4267ddead67e6bddbc79b34824ba7bf72e4dafdcdc5c1f1f1f73737391483461c204b95ceeecec8c
+73844aa5fafcf3cf070f1ecce7f3cdccccbcbdbdaf5fbfaebe38eda3dac2c2423d23d133ef8c1a352a363656a3d0cbcb2b3030907afac5175f2084ce9e3dab67
+2f8dbca34e2291d0f4d5686f6666366fdebc8a8a8ab686a25f4b3d0a159b76ea61dd8ea08e7db71c64f56d12bba2acacece6cd9b010101860e043047fdcec842
+a130232383fa2205ab7704f685ceead50d408768dc915d3df5b07a47605fe8ac5eddea8a8a8a828282b4cb43434357af5ecd7c3c3ab122c85e4c23ef20b5d4c3
+ea1d817da1b37a7503d021da7907fd9d7a3c3c3cd8bb23b06f1fd6b925007809b16ee7a5b0f27b83ec5ddd007488ce77599148f4dd77df797878301f4f7781df
+6701c02638e9e8f3f3e09e0cf20e00acd13b920e82bc03005bf49aa48320ef00c00abd29e920c83b00f47cbd2ce920967e9e05c0cb432412656666f6b2bfc280
+e31d007a2e8140d0fb920e62e9f706591733009d73eedcb9b6920eab7704f685ceead50d407761f58e00e7590000a641de0100300df20e008069907700004c83
+bc0300601ae41d0000d320ef0000980679c7002a2b2b434242acadadf97cfec081033ffdf4d39696169af662b198f3371e8f2793c9a2a2a2542a953ee3210600
+00200049444154762d26168bdb5d104110547ba150e8e6e676f6ecd9762397cbe51c0e273f3f9f2a993a75eae2c58b359af9fbfbaf58b182a61742c8dddd7dfd
+faf508a1c6c6460e8773fefc793d9788db635c2e572a95ce9d3bb7baba9a66289a55040c83d1bbe6740736c6ac61dcb871d3a74fbf7cf9724949497a7aba8383
+c3471f7d44d35e2412a5a4a428140a8542515b5b9b9191616a6aba63c70eaa56e31674d4fd396916c4e7f30f1c3880dbdfbd7b373a3a5a2412555656d284d1d0
+d0606e6e1e1e1e3e7ffe7caaf0f8f1e3a6a6a6f89ee5d8fdfbf7793cdeeddbb7697a917adc0dbdadbeeab7e22b2f2fbf78f1e2b061c3162f5e4c3314cd2a622f
+56ef08f0bb50a6912479eddab5d3a74f8f1f3f1e21d4bf7f7f2e979b959545df8b2008ea2ddacfcfcfcbcbebead5ab54ad542a757070e8e882d47b6ddcb871eb
+d6adb76eddb2b3b36b2b86c3870fbbbabac6c6c60e1a34a8b2b252269321840203034d4d4d8f1d3b161a1a8a9b252525b9b9b90d193284a6979e68fa5a5959e1
+e00982b0b0b0b0b5b5a51f4ae72a0286d2abceb3ce9d3b67e810dac7e170c2c2c2962e5dba6ddbb6ab57af363737fbfbfbfffbdfffd67f84bcbcbc9c9c9c0913
+2674d7821a1b1b77edda4510c48811236806dcb3674f444484b3b3b3a7a7674242022ee4f1788b172fdebf7f3f7edadada9a949414191949df4b4f347d3d3c3c
+0882e0f3f93636367575752b57aeecd0c8c0c00c7dc0d5616dc59c9393231008180ea6d34e9c38b170e142171717a150386bd62cfa7b168b4422a15028914824
+1209411032996ceddab52d2d2d542d4110223572b9bcdd05f1f97caa1742c8c6c62639399926868282023333337c3e959595656969a9542a71554545058fc7fb
+edb7df70954c26a36e344ed3abddf3acb6fae2f6870e1d2a2e2e2e2a2a3a75ead4983163fcfcfc6886a25f452cc5c69d97c2bed075aeee9c9c1ca150c8962d51
+5757473daea8a858ba74a94c26a376486d2291e8abafbe2a2d2dbd7cf9f2f8f1e3e7ce9ddbd8d8a85ebb7bf7ee7b6aaaaaaada5d109fcfdfbb77efbd7bf74a4a
+4a1e3e7cd86ecc4b972ee5f178d2bf2184121313a9da193366fcf39fff244932282868fdfaf5faf46a37efb4d557bbfda54b9710427ffcf1074dde696b15b117
+5b5eed3ab12f74edd59d9b9b8bdfb459b125d2d2d28442e1b367cfa892aaaa2a8410cd218f48244a4b4bc38f9f3e7d3a60c080d9b367ebacd57f417c3e3f2323
+43cf989f3d7b26168b333232a8ebb2ab56ad1a397224d5e0c71f7f7474747cfcf8b15028a42ed9d2f7a2cf3b347db5db5fbc78112154565646937774ae225663
+c5abbd2dec0b5d6375ab271d566c09a5523960c08037df7c332d2dada8a8e8cc9933010101c3860da3ce9bb469ec36d7ae5d333636deb3670f55abf1614d4545
+45737333fd823a9477121212faf5eba75e525e5ecee572737272f0d3d6d6565757d7e0e0e059b366e9d94b23efe0cfa7a80f9b68fa6ab4bf7af5aa9b9bdbb871
+e3da1a8a6615e939fd9e8915aff6b6b02f74f5d5ad9174d8b2251e3c78b068d1227b7b7b6363632b2bab909090fbf7efd3b4d77ebbdebc79b34824c2472e1a6b
+002b2c2ca45f5087f2cea851a3626363350abdbcbc020303a9a75f7cf10542e8ecd9b37af6d2c83bea2412094d5f8df6666666f3e6cdaba8a8686b28fa55c45e
+6c79b5ebc4bebf0ea2feee282f2f6fdab469f5f5f5eab5ac9b0e009d03fffb65003a930e00801558f9bdc15e99748a8a8a828282b4cb43434357af5efdf2c400
+5e06ec3b54d379a77a005e42acdb79292c3edea9ababd3ae62ef9600a04358fd06cccaeb3b93264dfae1871fe027c500b0142bf30e82d403009bb135ef20483d
+00b0168bf30e82d403003bb13bef20483d00b010ebf30e4268d2a4491919193abf0b0f00e8817a43de4108b9bbbb6766660a040243070200681f2bbf37d856cc
+e7ce9d73777767361c000c83d5bfcf625fe8ac5edd00741756ef08bde43c0b00c022907700004c83bc0300601ae41d0000d320ef00009806790700c034c83b00
+00a641dee989c46231e76f3c1e4f2693454545a954aa4e7751afc5d47fd1969b9bebebeb2b954ac562f1d8b163131313db8df0fcf9f3fefefe52a9d4d4d474e2
+c48999999954959999d9f1e3c7d51bfbf8f8c4c4c4a897c8e5720e87939f9fdfa1591717172f58b0c0dededec4c4c4dede3e3c3cfcfefdfbfa4c10f43490777a
+a89494148542a15028aaaaaaf6eedd9b9494d4eecdc5e9bb68dc40eaeeddbbb83c3939d9c7c767f4e8d167ce9cb975eb566464e49a356b162f5e4cb3a063c78e
+797a7a4e9830e1c2850bb76edd7ae79d7766cf9e7df4e8513da7a6542abff9e69bf0f0f0eddbb7eb3f854b972ebdf6da6b7c3effc89123252525478e1ca9abab
+737373a3fe76b2ad09829ec82077cfe90a36c6dc51da37cc0a0a0a5ab87061a7bbb475c3ccfafa7a8944b27dfb76f5c29b376f1a19199d397346e7829e3f7f6e
+6969f9e5975faa17c6c7c7474545e1c71289e4d8b163eab5dededed1d1d1d4d3a4a4a4b163c7969595f1f97ceae6a2ed4e61d8b061efbdf79e7a6d5353d3bbef
+be7be7ce1d9a09f662acde11e0788705f2f2f2727272264c98d0ed5dce9e3dab5028962c59a25e3862c4083737b7d4d4549d5dae5cb9525353b360c102f542b9
+5c1e1717473d0d0e0e26d4646767ab37deb3674f444484b3b3b3a7a727cd419cfa148a8b8b8b8a8ade7fff7df506c6c6c609090903070ea49f23ab9d3b77ced0
+21bc18864e7c1dc6c6983b4a24120985428944229148088290c9646bd7aea5b99171bb5d4422114110223572b99c24c9bd7bf75a5b5b6b8fb660c182993367ea
+5c506a6a2a97cba589041f4015ab9934691275bc535050606666565f5f4f9264565696a5a5a552a96c770a3873e15e24496edab4899ac8dab56b6926c8760281
+80ba19b40656ef08acbc9fc4cb202e2ececbcbebf1e3c772b9dcc5c565cd9a354646465de91217173775ea54eaa944224108d9d9d9555757373434088542f5a1
+2a2b2bdb3a8eb0b3b36b6d6dadaaaab2b6b6a60a150a8552a9a44a6432d9e0c183a95af5bf46dabd7b775d5d9d9393137e5a5b5b9b9c9c1c1616463f051b1b1b
+84504545c5a041831042cb962d9b33670e4268e9d2a5cf9f3fa79920db29954a5f5fdf93274ff6b63f5a3074e2eb3036c6dc51ea572b9e3e7d3a60c080d9b367
+77a50bfdf59dad5bb7e2a7898989d9d9d9c5c5c5c6c6c63ffef8a3ce053537375b5b5bc7c7c7ab176ed8b0c1d1d151a55291b4d7779e3d7b26168b333232a8ab
+bfab56ad1a397264bb53686d6d7575758d8c8cd40866dab4692b57aea49920dbe19d5428146a5f6e63f58ec0bed059bdbaf5a4b1175dbb76cdd8d878cf9e3d9d
+ee221289343eeea9a8a8686e6e2649322525852088d8d8d8c2c2c2f8f8785353d33e7dfa848484d02cebe0c183028160cb962dbffffe7b6969e9b66ddb4c4c4c
+0e1e3c886b69f24e424242bf7efdd4abcacbcbb95c2e3e95a09f426e6eae402098376fdee9d3a7efdcb9939d9d1d1a1a6a6464949494443f4156a38e0fb4530f
+ab7704f685ceead5ad27ed77efcd9b378b44a2bb77ef76ae8bce3f812d2c2cc42d7373737d7c7ccccdcd4522d1840913e472b9b3b3337d9acbc8c8983c79b244
+22118bc513274e4c4f4fa7aa68f2cea851a36263633586f2f2f20a0c0cd467d677eedc090b0b737474343131b1b1b199376fde952b57a8e9d34c90bdd4a7a391
+7a58bd23b0efaf8358fd77476c51565676f3e6cd8080004307f2b2d3b829a85028ccc8c89832650a62f98ec0bed059bdba01e810ed9b1153a987d53b02fb4267
+f5eaeea2a2a2a2a0a020edf2d0d0d0d5ab57b37759a02d3a6f828e538f8787077b7704f6edc3acbe1d3d00dd88753b2f8595dfdf61efea06a04374becb8a44a2
+efbefbcec3c383f978ba0bfc4e020036c149075f5a662fc83b00b046ef483a08f20e006cd16b920e82bc03002bf4a6a48320ef00d0f3f5b2a48358fa7916002f
+0f9148949999d9cb7e8f0ec73b00f45c0281a0f7251dc4d2ef0db22e66003ae7dcb9736d251d56ef08ec0b9dd5ab1b80eec2ea1d01ceb300004c83bc0300601a
+e41d0000d320ef00009806790700c034c83b0000a641de0100300df24ecf525959191212626d6dcde7f3070e1cf8e9a79fb6b4b4d0b4178bc59cbff1783c994c
+161515a552a9b46b31b158dcee820882a0da0b85423737b7b367cfb61bb95c2ee77038f9f9f91ae5e7cf9ff7f7f7974aa5a6a6a613274eccccccd4b39626f8b6
+229c316306478b8b8b4bbbc103a6317d038b2e6363ccfa1b376edcf4e9d32f5fbe5c5252929e9eeee0e0f0d1471fd1b41789442929290a8542a150d4d6d66664
+64989a9aeed8b183aad5b8abd483070fda5d109fcf3f70e0006e7ff7eedde8e8689148545959491346434383b9b9797878f8fcf9f3d5cb8f1e3d4a10c4c68d1b
+8b8b8bcbcaca76eedc4910c4912347f4a9a509bead086b6a6a7061444484bbbb3b7efcf0e1c38e6d039660f58ec0bed059bdbae9b5b6b61a1919a9df0ffbbbef
+bed3be49a63aed7b4e0505052d5cb8b0ad5a7d16c4e7f3333232a82aa55289103a75ea144d1849494963c78e2d2b2be3f3f9547678fefcb9a5a5e5975f7ea9de
+323e3e3e2a2aaadd5a9ae0f589303a3adadbdb9b26e05e80d53b02fb4267f5ea6ed792254b060c18b075ebd69f7ffeb9a9a9a9ddf61a3b676e6eae8585454242
+82ce5a3d17a4be572b95ca2fbef8822008faa38671e3c6eddbb78f24493f3fbf8f3ffe1817e6e5e521841e3f7eacb30b7d2d7df0ed460879a787635fe834ab5b
+fd0d9cbd4e9c38b170e142171717a150386bd62c9a7b8492242912898442a144229148240441c864b2b56bd7b6b4b450b5044188d4c8e5f27617c4e7f3a95e08
+211b1b9be4e4649a180a0a0acccccceaebeb4992cccacab2b4b4542a952449a6a6a672b9dcb67ad1d7d207df6e8490777a38f685ded6eacec9c91108040c07d3
+edeaeaeaa8c71515154b972e95c9647837d64924127df5d557a5a5a5972f5f1e3f7efcdcb9731b1b1bd56b77efde7d4f4d555555bb0be2f3f97bf7eebd77ef5e
+4949893e1747962e5dcae3f1a47f4308252626922479e9d225ed239a67cf9ee112fa5afae0db8d10f24e0fc7bed075aeee9c9c1ca150c8ea2d4192645a5a9a50
+287cf6ec19555255558510d2f3b6e84f9f3e1d3060c0ecd9b375d6eabf208dab27f49e3d7b26168b333232a8abbfab56ad1a3972244992cdcdcdd6d6d6f1f1f1
+eaed376cd8e0e8e8a852a9e86b6982d72742c83b3d5c6ff8bfc1bcbc3c3f3fbf8686064307d2553e3e3ef6f6f6fefefe51515103070e7cf4e8d1f6eddb870d1b
+d6af5f3f7dba4b2492c3870f4f9830e1abafbe8a8888c085b5b5b5f7efdf576f666b6bdbc505a93b78f0a0b5b5b59f9f1f55f2eebbef6ed9b205ff71ccb66ddb
+962c59d2d4d4346bd62c0e87939696b661c386a4a4242e97cbe572696a6982e7f17ac38bf66567e8c4d7611a31e7e6e6e2937c964e47c383070f162d5a646f6f
+6f6c6c6c656515121272fffe7d9af6da07059b376f168944f8c8457dcd500a0b0be917d4a1e39d51a346c5c6c66a147a7979050606e2c719191993274f964824
+62b178e2c489e9e9e9ea2d696a698287e31d92e5c73becfbeb20f5bf3bcacbcb9b366d5a7d7d3d55cbbae900d039f0bf5f86a19d740000acc0d653e5972ae914
+15150505056997878686ae5ebdfae58901f41aec3b54e37038b9b9b96d251dd64d0780ce61f57916fb42e77038860e01801e81753b2f8595e759f824abaeae4e
+bb8abd5b02800e61f51b302baf2b4f9a34e9871f7ea0fe150100c02eaccc3b08520f006cc6d6bc8320f500c05a2cce3b08520f00ecc4eebc8320f500c042accf
+3b08a1499326656464e8fc390f00a007ea0d790721e4eeee9e99992910080c1d0800a07dacfcde605b31e3ff5e60361c000c03beafcc2856af6e00ba0bab7784
+5e729e05006011c83b0000a641de0100300df20e008069907700004c83bc0300601ae41d0000d320efd0118bc59cbff1783c994c161515a552a93add45bd1653
+ff65596e6eaeafafaf542a158bc563c78e4d4c4cec4a78f4cb4208c9e5720e87939f9faf5e4810046e6c6464646e6eeee7e777fbf66d5c151616d6af5f3f8542
+41357ef0e0818585c5eeddbb75863763c60c8e161717175c9b9f9fefefef6f6e6e2e140a5f7df5d59d3b77b6b6b6d2cff7fcf9f3fefefe52a9d4d4d474e2c489
+99999954959999d9f1e3c7d51bfbf8f8c4c4c4b43bdf7637717171f182050beceded4d4c4cecededc3c3c3a95b7ab5bb86419b98bf754e173119b348244a4949
+5128140a85a2b6b6362323c3d4d474c78e1d9dee221289f6eddb57a1e6c18307b8ead0a1430281e09ffffc67414141696969525292b5b5757878f88b58164992
+0d0d0de6e6e6e1e1e1f3e7cf571f93cfe71f3870a0a2a2a2acac2c3f3f3f2828c8c2c2a2acac8c24498542e1eaeaba68d122dcb2b5b5d5d3d3f3edb7df6e2bbc
+9a9a1abcdc888808777777fc18df56f8c4891304414445455dbd7ab5bcbcfcd0a1430e0e0eb366cda299ecd1a3470982d8b871637171715959d9ce9d3b098238
+72e408ae954824c78e1d536fefeded1d1d1dddee7ce9d7e1c58b170502417878785e5e5e7979795e5ede9c39735c5c5c140a45bb6bf84563e3ce4b615fe80ce7
+1d8dbbe20505052d5cb8b0d35ddabaf76e7d7dbd4422d9be7dbb7ae1cd9b378d8c8cce9c39d3bdcbc2929292c68e1d5b5656c6e7f3d5f7168d5be2b5b4b48c1a
+352a3232123fcdcfcfe7f178f8ee7adbb76f7772727af2e4495b8ba068dc45eff9f3e7b6b6b65bb66c516f5352524210446a6aaace119e3f7f6e6969f9e5975f
+aa17c6c7c7474545e1c7ede69db6e64bbf0e870d1bf6de7befa9d7363535bdfbeebb77eedcd1d99749acce3b709ed50179797939393913264ce8f62e67cf9e55
+28144b962c512f1c3162849b9b5b6a6aea8b086fcf9e3d111111cecece9e9e9e0909096d353332329a3973e6b973e7f0d371e3c6ad5bb72e3232f2faf5ebb1b1
+b1c9c9c9e6e6e67a8647b97cf9f2a3478fc2c2c2d40bfbf7ef3f7dfaf4b6267be5ca959a9a9a050b16a817cae5f2b8b838ea69707030a1263b3b5bbdb19ef355
+5f87c5c5c5454545efbfffbe7a036363e3848484810307ea3ddd2ea1d67c6f63e8c4d7614cc62c12898442a144229148240441c864b2b56bd7b6b4b474ba8b48
+24220842a4462e979324b977ef5e6b6b6bedd1162c583073e6ccee5d164992050505666666f5f5f52449666565595a5a2a954a5ca57d0be08484045b5b5beaa9
+4aa57273731308041b366c686ffdfd1f8de39d23478e989898683793cbe51e1e1e3a47484d4de572b9348bc0478bc56a264d9a441defd0cc97661de2cc857b91
+24b969d3266a4dae5dbb96a45dc3dd452010e4e4e4e8ac62e3ce4b61e5fd2498141717e7e5e5f5f8f163b95ceee2e2b266cd1a2323a3ae74898b8b9b3a752af5
+5422912084ecececaaabab1b1a1a8442a1fa50959595f46fad9d58164268f7eedd7575754e4e4ef8696d6d6d7272b2c60108a5aaaacadada9a7acae57257ae5c
+191818b866cd1afaf5d0163b3bbba6a6a6478f1ed9dadaaa979795956994a877696d6dd58844a15028954aaa4426930d1e3c98aa55ff3f26faf9b6b50e6d6c6c
+104215151583060d42082d5bb66cce9c3908a1a54b973e7ffe9ceaab730d7717a552e9ebeb7bf2e4c9def6470b864e7c1dc664ccea27f04f9f3e1d3060c0ecd9
+b3bbd285fefaced6ad5bf1d3c4c4c4ececece2e2626363e31f7ffcb17b97f5ecd933b1589c9191415d0d5db56ad5c8912371adc6f18e4aa57ae595573ef8e003
+f5117ef8e107232323dad5f03f348e779a9b9bedececf02103a5a4a44420107cfbedb73a47686e6eb6b6b68e8f8f572fdcb06183a3a3a34aa52269afefd0cf97
+661db6b6b6bababa52d7b628d3a64d5bb97225c9c8f51dbc930a8542edcb7c6cdc7929ec0bdd50798724c96bd7ae191b1befd9b3a7d35db43f01a9a8a8686e6e
+2649322525852088d8d8d8c2c2c2f8f8785353d33e7dfa84848474fbb2121212faf5eba73e4e79793997cbc5c7f3d4e759e5e5e5172e5c983973a6adadadc6c7
+345dcc3b2449666666120411131373e3c68df2f2f2c3870f3b3b3b070606b6b6b6b635c8c183070502c1962d5b7efffdf7d2d2d26ddbb69998981c3c7810d7d2
+e41dfaf9d2afc3dcdc5c8140306fdebcd3a74fdfb973273b3b3b3434d4c8c828292989a4dd9add853a3ed04e3d90771865c0bc4392e4e6cd9b4522d1ddbb773b
+d745e79fb1161616e296b9b9b93e3e3ee6e6e6229168c2840972b9dcd9d99926cd756e59a3468d8a8d8dd518cacbcb2b30309024493e9f8f5b1a1919d9d9d905
+07079794946834ee7ade2149323f3f3f3030502a950a048251a346c5c7c7d35f38234932232363f2e4c91289442c164f9c38117fac86d1e41dfaf9b6bb89efdc
+b9131616e6e8e8686262626363336fdebc2b57aee02afaadd92dd447d6483dacce3becfbeb2056ffdd5147959595ddbc79332020c0d08100c3d0b829a85028cc
+c8c89832650a62f98ec0bed059bdba01e810ed9b1153a987d53b02fb42ef09abbba8a828282848bb3c343474f5ead5ec5d56e77463843d7fb20cd37913749c7a
+f0770e980fa95b187e1fee2856df8e1e806ec4ba9d97c2caefefb0777503d0213adf654522d177df7de7e1e1c17c3cdd057e2701009be0a4832f2db317e41d00
+58a377241d04790700b6e835490741de0180157a53d241907700e8f97a59d2412cfd3c0b8097874824caccccec65bf4787e31d007a2e8140d0fb920e62e9f706
+591733009d73eedcb9b6920eab7704f685ceead50d407761f58e00e7590000a641de0100300df20e008069907700004c83bc0300601ae41d0000d320ef000098
+0679a74b2a2b2b434242acadadf97cfec081033ffdf4d39696169af662b198f3371e8f2793c9a2a2a2542a95762d26168bdb5d104110547ba150e8e6e676f6ec
+d94ec43c63c60c8e16171717aaa35c2ee77038f9f9f97acea8dd01b59d3f7fdedfdf5f2a959a9a9a4e9c3831333393aa3233333b7efcb87a631f1f9f989818f5
+928e46881517172f58b0c0dededec4c4c4dede3e3c3cfcfefdfbed6e11d0254cdfc0a2cb7a54cce3c68d9b3e7dfae5cb974b4a4ad2d3d31d1c1c3efae8239af6
+229128252545a15028148adadada8c8c0c5353d31d3b7650b51af763a26e5c45b320ea8e5715151577efde8d8e8e1689449595951d8db9a6a6060f121111e1ee
+ee8e1f3f7cf810f76a68683037370f0f0f9f3f7fbe9e33a21f50dbd1a3470982d8b871637171715959d9ce9d3b09823872e408aea5b9534da7232449f2e2c58b
+0281203c3c3c2f2fafbcbc3c2f2f6fce9c392e2e2e0a85827e8b185c8fda113a0a7e17da7924495ebb76edf4e9d3e3c78f4708f5efdf9fcbe5666565d1f72208
+827acff4f3f3f3f2f2ba7af52a552b954a1d1c1c3aba20f55e1b376edcba75ebad5bb7ececec3a14b3542ac56dc462319fcfd708e3f0e1c3aeaeaeb1b1b18306
+0daaacac94c964edce887e400d4d4d4d9191911b376e8c8e8ec625cb972f57a954972e5dc277076e57272244082d59b2242c2c6cd7ae5df8a99393d3f8f1e3e5
+72397587689d5b04749581f35ec7d1c4dcd61dec5f9c254b960c183060ebd6ad3ffffc73535353bbed35ee12979b9b6b6161919090a0b356cf05a9df5958a954
+7ef1c5170441d01c56b41bb3cedbec8d1b376edfbe7d2449faf9f97dfcf1c77ace8866400d79797908a1c78f1fb7d5402291181b1bf3d570b95cf5e39d4e4478
+fbf66d84d0afbffedad64219b81371a7b171e7a5b02ff4b656774e4e8e402060381892244f9c38b170e142171717a150386bd62c9a5b8992242912898442a144
+229148240441c864b2b56bd752f7c9148944044188d4c8e5f27617c4e7f3a95e08211b1b9be4e4e4aec4ac9d260a0a0acccccceaebeb4992cccacab2b4b4542a
+95facca8ad01b5a5a6a672b95c9a06128964fbf6edc56a264d9a44e59dce45989d9d8d10c2bd4892dcb46913b5e6f1eddbe9b7886141de6194ced59d93932314
+0a99df12757575d4e38a8a8aa54b97ca6432ea15af4d24127df5d557a5a5a5972f5f1e3f7efcdcb9731b1b1bd56b77efde7d4f4d555555bb0be2f3f97bf7eebd
+77ef5e494909cd618efe316ba789a54b97f2783ce9df1042898989facca8ad01b55dba7449fb78e7d9b3675409fdf59dce4578f3e64df5e39ddada5abcdadf7a
+ebad952b5792b45bc4e020ef304a7b75e7e6e65277aa663292b4b434a150f8ecd933aaa4aaaa0a21a4e7ddd39f3e7d3a60c080d9b367ebacd57f41eae759dd12
+b3469a78f6ec99582ccec8c8a0aeadae5ab56ae4c891facc48e7803a3537375b5b5bc7c7c7ab176ed8b0c1d1d151a55291b479a7d311b6b6b6bababa4646466a
+04336dda342aefc079d68bc0bed03556b77ad261784b2895ca010306bcf9e69b69696945454567ce9c09080818366c98c659863a8dd7f1b56bd78c8d8df7ecd9
+43d56a7c7a525151d1dcdc4cbfa00ee51d7d62d64813090909fdfaf5531fa4bcbc9ccbe5e2ab69f433d239605b0e1e3c281008b66cd9f2fbefbf9796966edbb6
+cdc4c4e4e0c183b89626ef7425c2dcdc5c8140306fdebcd3a74fdfb973273b3b3b3434d4c8c8282929896c7b8bb43b170640de6194faead6483acc6f89070f1e
+2c5ab4c8dededed8d8d8caca2a2424e4fefdfb34edb5df3f376fde2c1289f0e186c65cb0c2c242fa057528efe813b3469a18356a546c6cacc6205e5e5e818181
+edce48e78034323232264f9e2c9148c462f1c48913d3d3d3a92a9abcd3c508efdcb9131616e6e8e8686262626363336fdebc2b57aee02a9a2d6270acce3becfb
+eb20eaef8ef2f2f2a64d9b565f5faf5ecbbae900d039f0bf5f06a033e90000588195df1bece149a7a8a828282848bb3c343474f5ead52f4f0c3af5d8c00093d8
+77a8a6f34ef500bc8458b7f352587cbc535757a75dc5de2d014087b0fa0d9895d777264d9af4c30f3fc02f8301602956e61d04a9070036636bde41907a00602d
+16e71d04a90700766277de41907a006021d6e71d84d0a44993323232747ea51d00d003f586bc8310727777cfcccc140804860e0400d03e567e6fb0ad98cf9d3b
+e7eeeece6c38001806ab7f9fc5bed059bdba01e82eacde117ac9791600804520ef0000986698df679d3f7f5ee78f92f5646363d38dc1b44b2814e23f6f06a047
+19366c58e73a161515756f241dc6fc5f8de5e5e5e9bcb51300801943870e657ec7576780e39dd3a74f3f7cf8f0d5575f1d3d7a34f34bef90ebd7af1714144446
+464646461a3a1600fec7f0e1c36fddbad5b98ef8c6610664b0ffc108080858bf7ebda196aea7f5ebd717141458595975fa8016801787bd2f4bb8ae0c00605a8f
+cb3beeeeee1c0e1184ae700000200049444154e71ffff887a103d1a1aeae8ef3b75f7ef9852ac73173389c8d1b371a303c00d8a2c7e59d9e6fe4c8913b77ee74
+7070a04a3efcf0c30f3ef8c0802101c02e90773aac6fdfbecb972fb7b4b49c31630687c329292909080808080830745c00b0060bf24e5151517070b0adad2d9f
+cf1f3870606c6c6c434383fe0d860f1fcee170e2e3e357ac58616363231008bcbcbc3af7418086be7dfb8e1a358acfe7777d28005e2a3dfd7fddf3f2f2bcbcbc
+1a1b1b391c8e582cbe77efdec68d1bb3b2b2ce9d3b87fff8a2dd06d8c71f7f2c140a5f7ffdf52b57ae646767bbb9b9151414b8b8b87425b6b8b8b82ece0e8097
+538f3ede2149323c3cbcb1b171d8b061a5a5a5cf9e3d3b71e2849191d1d5ab57376fdeac4f030a4110858585274e9c282c2cb4b6b67efaf4a946030000637a74
+def9e5975feeddbb8710faecb3cf9c9d9d1142010101b366cd42081d3f7e5c9f06948080005b5b5b8490a5a5e5cc993311423ffdf413c3d30100603d3aef3c7e
+fc183f707575a50afbf7ef8f107af4e8913e0d287dfaf4a11e5b5a5a22849e3c79d2c5f03ef8e083575e79a5a2a2a28be300f0b2e9d179071fa120844a4a4aa8
+42fc582693e9d38072f7ee5deaf11f7ffc81fece3e5d515a5a7ae3c68de7cf9f77711c005e363d3aef8c1a350a9f3dad5ebdbab4b41421949e9efeedb7df2284
+e6ce9dab4f03caa953a7befffe7b84506161216e3065ca942e86979e9e4e92a4faa11600401f3d3aef70389cafbffedac4c4a4a8a8a85fbf7e2291e8edb7df56
+a95413274e5cb972a53e0d2842a1d0d7d7d7dada7ad4a851f5f5f552a974d5aa559d8baab4b474d7ae5d35353554495a5a5a5a5a5a57660ac04ba547e71d8490
+a7a7e7b56bd7e6cf9f6f6b6bdbdcdceceaeaba6eddbab367cf527fe1de6e036cc99225ebd7afe772b90441f8f8f89c3f7fded1d1b17321ddbc79f3fdf7dfbf7f
+ff3e55b27dfbf61d3b76747a8e00bc6c7adcf777ce9d3ba751327cf8f0e4e4649a2eed36400871b9dc75ebd6ad5bb74eff48aaaaaaf087621c0e079788c56252
+d73fda6ac70c00a0d1d38f770ca5baba7aead4a945454583070f8e888830743800f42a907774a8aeaef6f0f0282c2c1c3c78704e4e0ef5a91900a05bf4b8f3ac
+6ed7d19f6241d201e0453358deb970e1c2e79f7f6ea8a5d3f8e69b6f8a8a8a860f1f7ee6cc196b6b6b438703402f64b0bc73faf4e9d3a74f1b6ae9f420e900f0
+421920ef4c9a34093fd0f88a8d9e3efffcf3ce75d41397cb8d8a8a82a403c08b63985b9de24fa63bb76856df9e1580eed2e91da12b7b5f7781cfb300004c83bc
+0300601ae41d0000d320ef00009806790700c034c83b0000a641de0100300df20e008069907700004c83bc0300601ae41d0000d320ef00009806790700c034c8
+3b0000a641de0100300df24ec788c562cedf783c9e4c268b8a8a52a954f4bdce9f3fefefef2f954a4d4d4d274e9c9899994955999999e1bbe5507c7c7c626262
+d44be4723987c3c9cfcfef5024c5c5c50b162cb0b7b7373131b1b7b70f0f0fa7eef9e5eeeebe7efd7afc98c7e3cd9933477de459b366a9dfd490661c9de867a4
+1e3626168bbb32d919336670b4b8b8b8343636524fb95cae542a9d3b776e757575a7c3686b4134ab02b405f24e87a5a4a428140a8542515555b577efdea4a4a4
+8484049af6c78e1df3f4f49c3061c2850b176eddbaf5ce3befcc9e3dfbe8d1a37a2e4ea9547ef3cd37e1e1e1dbb76fd73f924b972ebdf6da6b7c3effc8912325
+2525478e1ca9abab737373abababd319e1810307742ebd43e3e869dfbe7d156ad46f5ddf89c9262626e271222222dcddddf1e3cb972fe35ea9a9a91515156565
+659999994545456bd6ace97418f40b021dd2fbef27d1ed0882a0de1bfdfcfcbcbcbcae5ebdda56e3a6a6a6c8c8c88d1b37464747e392e5cb97ab54aa4b972e69
+1c65b4e5f0e1c3aeaeaeb1b1b183060daaacac94c964fa44b264c992b0b0b05dbb76e1a74e4e4ee3c78f97cbe595959503070ed458c4b265cb56ac58e1e6e6d6
+bf7f7f8daa0e8da327a954eae0e0d05d93954aa5b8502c16f3f97c6ae4c6c64684909595152e2108c2c2c242fdee201d0da3ad05814e80e39d2ec9cbcbcbc9c9
+993061425b0dae5cb9525353b360c102f542b95c1e1717473d0d0e0e26d4646767ab37deb3674f444484b3b3b3a7a727cd81957a24c5c5c5454545efbfffbe7a
+036363e38484049dc9223434d4c7c7272424a4a5a545bdbca3e3e839231a9d982c3d0f0f0f8220f87cbe8d8d4d5d5d9d9effccad67180ce8b5b7a2250da12b8b
+3654cc984824120a85128944229110042193c9d6ae5ddbd2d2d256fbd4d4542e974b33a04422d9be7d7bb19a499326454747e3da8282023333b3fafa7a9224b3
+b2b22c2d2d954a65bb91e0fd1cf7224972d3a64da2bfad5dbb9624c937df7c73ddba75b8d6c8c8e8d2a54b4f9e3c717070888d8d254932282868e5ca95fa8cd3
+89198944228220446ae4727957264b898e8ef6f6f6a69e2a954a84d0a1438770f63c75ead4983163fcfcfcba1286ce05bd50028120272747675557f620c3ee44
+2449c2795687c5c5c57979793d7efc582e97bbb8b8ac59b3c6c8c8a8adc6767676adadad555555ea37a85028144aa5922a91c96483070fa66a452211f578f7ee
+dd7575754e4e4ef8696d6d6d7272725858187d2436363608a18a8a8a4183062184962d5b86cfe9962e5dfafcf9739d719a9b9bfff7bffff5f6f6f6f1f1a10a3b
+314ebb33c2614f9d3a957a2a9148ba32597a4e4e4e3892a14387e28bfa1515158e8e8e9d0e83614aa5d2d7d7f7e4c993eeeeee0609e00581f3ac0eb3b6b67671
+71193f7efc8f3ffe78fdfa758d73280d63c68cb1b6b64e4949512fdcbe7dfb9831635a5b5be917a45028929393d3d2d27ef9dbaa55abd4af74b615c9f0e1c35d
+5d5d77ecd8819f5a5858b8bababababa120441b3b8b7de7a2b2a2a2a2424e4d9b3675d19a75db6b6b6ae6aacacacba3259fde1b77a6ab5772e0ce6353434f8fa
+fa9e3d7bd68031743bc83b9d2791480e1f3e9c9e9efed5575fb5d586c7e36ddbb66df5ead55f7cf1456969695959595c5cdc860d1b3efbec332eb79d957ff0e0
+416b6b6b3f3f3f87bfbdfbeebbb76eddd23ee7d78884c3e1242525eddfbf7ffefcf967ce9cb97bf7eee9d3a7fff18f7f9c3a750a1fb9b465e3c68d666666d4e5
+984e8f43afb6b6f6feff6a6969e9f464e9555757e3455cbb766de5ca95e3c68d737676ee963098d4d0d0e0efefdfab528f41ceeebab26843c58c8944a2b4b434
+f592cd9b378b44a2bb77efd2f4cac8c8983c79b24422118bc513274e4c4f4fa7aa2412c9b163c7d41b7b7b7be3ab21a3468dc2175cd4797979050606ea13c99d
+3b77c2c2c21c1d1d4d4c4c6c6c6ce6cd9b77e5ca155ca57d7d871aa4b8b8582010e0eb3bed8ea313cd8c70d8da2fc2c2c2c22e4e966ce3fa0ec5cccc6cdebc79
+1515155d0943e7825e28f5f08442e1993367d4abba32663705d84970df3e007a2ebca7508442614646c694295310dcb70f00c08c5e73c205c73bdda3a8a82828
+2848bb3c343474f5ead5ccc7f3a2bd6cf335148de31d0c1ff5787878b0f778879579a7bbc3018095d89b7758f9fd9d1e78bc03c08ba0f35d5624127df7dd771e
+1e1eccc7d35de0fa0e006c82930ebeb4cc5e907700608dde917410e41d00d8a2d7241d0479070056e84d490741de01a0e7eb654907b1f4f32c005e1e22912833
+33137e8f0e0060884020e87d4907b1f47b83f0fd1df0923877ee5c5b4987d5bfcf82bc03002bb13aefc07916008069907700004c83bc0300601ae41d0000d320
+ef00009806790700c034c83b0000a6f5febc535959191212626d6dcde7f3070e1cf8e9a79f6adc8d5783582ce6fc8dc7e3c964b2a8a828954aa55d8b5137eda6
+59104110547ba150e8e6e6d6ee5fe49e3f7fdedfdf5f2a95e2bbcd6566665255666666c78f1f576fece3e3131313a35e2297cb391c4e7e7ebefe534308151717
+2f58b0c0dededec4c4c4dede3e3c3cfcfefdfbb8cadddd7dfdfaf5f8318fc7d3b8b9fbac59b356ad5aa5cf383ad1cf88669d776eb23366cce068717171696c6c
+a49e72b95ca9543a77eedceaea6a86c3a05951bd076377ae50d7954577b4e3b871e3a64f9f7ef9f2e5929292f4f4740707878f3efa88a6bd48244a4949512814
+0a85a2b6b6362323c3d4d474c78e1d54edbe7dfb2ad43c78f0a0dd05f1f9fc03070ee0f677efde8d8e8e1689449595956dc570f4e8518220366edc585c5c5c56
+56b673e74e82208e1c39826be96f14439264434383b9b9797878f8fcf9f3f59fdac58b170502417878785e5e5e7979795e5ede9c39735c5c5c140a05a975eb1b
+84d0fefdfba991a95b1bb73b8e4eeddefaa6ad75deb9c9d6d4d4e071222222dcddddf1e3870f1fe25bdfa4a6a65654549497975fbc7871d8b0618b172f66388c
+b6d69286aeec4186daf129bdfc77a124495ebb76edf4e9d3e3c78f4708f5efdf9fcbe5666565d1f72208827a2bf3f3f3f3f2f2ba7af52a552b954a1d1c1c3aba
+20f55e1b376edcba75ebad5bb7ecececb497ded4d4141919b971e3c6e8e8685cb27cf972954a75e9d2258da38cb61c3e7cd8d5d535363676d0a0419595953299
+4c9fa92d59b2242c2c6cd7ae5df8a99393d3f8f1e3e572796565e5c081033516b16cd9b2152b56b8b9b9f5efdf5fa3aa43e3e849e73aeff464a552292e148bc5
+7c3e9f1ab9b1b11121646565854b0882b0b0b0b0b5b565388c9741af3acfd2bea92387c3090b0b5bba74e9b66ddbae5ebddadcdcecefefffef7fff5bff31f3f2
+f2727272264c9840df4cff05353636eedab58b2088112346e81ceaca952b3535351af7e195cbe5717171d4d3e0e060420d75874f6ccf9e3d111111cecece9e9e
+9e090909fa4cadb8b8b8a8a8e8fdf7df576f606c6c9c9090a03359848686faf8f8848484689cb476741c3d6744a31393a5e7e1e14110049fcfb7b1b1a9abab5b
+b972a541c2e8e50c7294d59545b7d5312727472010e8ac3a71e2c4c2850b5d5c5c8442e1ac59b3e8efed2912898442a144229148240441c864b2b56bd7b6b4b4
+50b5044188d4c8e5f27617c4e7f3a95e08211b1b9be4e4e4b602484d4de572b934114a2492eddbb717ab993469127556525050606666565f5f4f9264565696a5
+a5a552a96c776a783fc7bd4892dcb4691335c1b56bd792ba6e31fae4c9130707077c774dea3cabdd713a31239a75deb9c95274de62f4d0a143387b9e3a756acc
+98317e7e7e0c87a1a7aeec4186daf129bde43cebdcb973bebebe1ab7a6c5eaebeb0302020202021042f7efdfdfb06183bbbbfb6fbffd4610445ba3c5c5c57979
+793d7efc582e97bbb8b8ac59b3065fd1a06aa74e9d4a3d954824fa2c68c78e1d6fbdf51687c3118944ea87eedaececec5a5b5babaaaaacadada9428542a1542a
+a912994c3678f060aa56fdaebbbb77efaeabab737272c24f6b6b6b939393c3c2c2e8a76663638310aaa8a8c0373e5fb66c193ea75bba74e9f3e7cf75c6696e6e
+fedffffed7dbdbdbc7c7872aecc438edce08b5bdce3b37597a4e4e4e3892a14387e28bfa1515158e8e8e0c87d1bbf586f3acbcbc3c3f3fbf8686ffdfdebdc7c5
+b4ee0d007fa6cbdc335d34dd2f34c5962312154a9bdd856ea8b1a3b0ab4de9b4777d4e1cb7e37068e34dd8e12d42db2b226c459d8d847645b27194749313ba22
+97a3d245b5de3fd6c7facc9966565331d3caeffbd7ace779d6b37ecf336bfd5a6bcd34eb7defaaf4f4743e9fdfdcdc8c2f1a1a1a464747d7d7d7d7d4d49074c8
+e7f34d4d4d6d6d6d2f5fbe7cefde3db14b1e5d5d5d81086d6d6d5936a4a7a7271008ccccccc8930e42c8c6c686cfe79f3c7952b4302e2ecec6c6a6a7a7877cdd
+e6e6e6949494b4b4b4fb1fad5dbb362e2eaecfa18d1f3f5e2010ecddbb175fd4d4d4c44747929d11425f7ffd756464644040c0bb77ef06d34f9f24cef980072b
+3bfcec809876458531fc50fe7c272f2f6fce9c39adadad126bdddcdc0c0c0c3c3d3d2323232d2c2c1a1b1be3e2e22c2d2d478f1e2d4be73c1eefd4a953767676
+070f1e0c0909c10b5fbd7a25f6a9b0aeaeee2037244a454565f7eeddcb972fefececf4f5f5a5d1686969695bb76e4d4a4a5252eae3efc4f1e3c7f97cbe878707
+51b272e5ca989898de3fe32236341a8d969494e4eaeafafaf5ebefbfffdec8c8e8d9b367c78f1fcfcaca120a85245b8c8e8ecececebe72e58ab5b5354268c0fd
+909338e7031e2cf9b65ebe7c896febf9f3e76bd6ac993a75aa898989fcc318e614727537984d8bae989b9b2b7642debb7d5d5d5d6060a0818181aaaaaab6b676
+4040406d6d2d49ff1c0e272d2d4db464dbb66d1c0e07bf5923b639dc83070fc837c46030323232fa35cc8c8c0c4747471e8fc7e572edededd3d3d3892a924f9d
+adacacf01b2ea25c5c5cbcbdbdfb1c1a8661151515414141464646743a5d4747c7cfcfeff6eddb7855effb3b44276565652c168bf81c9dbc1f89fafc1c5de29c
+0f72b09894fb3b047575753f3fbf9a9a1a398721a3c11c418a3af00914fedd2f89673a0a190e00f207bffba500e497570080a18c92f777069f741e3e7ce8e3e3
+d3bb7cd9b265ebd6ad1b4468148b419ebeb4f1021294bccefad4e1004049d4bdcea2f0f94e4b4b4bef2ab8bf03be1094fe034cc9fb3b3366ccb878f1a2d87f03
+0300a88292790741ea0180caa89a7710a41e00288bc2790741ea01809aa89d7710a41e002888f27907213463c68c8c8c0c895f6307000c41c321ef20849c9c9c
+323333592c96a2030100f48d92df1b94b662efff000660b8a2f4ff670dabbc03c09783d27967985c6701002804f20e0040de14f9ff59969696725e1180e184c2
+07825c7f65eca3929212458f1b802f57494989420e7c82c2eed13e7cf870602b8e1f3f1ed21600833910147ea244bdcf86e0f32c0010c50f04b8af0c009037c8
+3b00007983bc03009037c83b00007983bc03009037c83b00007983bc03009037c83b00007983bc03009037c83b00007983bc03009037c83b00007983bc030090
+37c83b00007983bc03009037c83b0ac0e572691fa9a8a8e8ebeb47464676777793ac525f5f1f1010c0e7f3190c868585c5962d5bbababa1042f3e6cda3f5626a
+6a8aaf555858e8e9e9a9a1a1c166b3274d9ab46fdfbe9e9e1ebc8ac96412edd96cb68383c3b56bd7c8c3cecfcff7f4f4d4d2d2525353b3b7b7cfcccc24aad4d5
+d5cf9e3d2bdad8cdcd6dd5aa55a225111111341aadb0b0b05f53515656b664c9120303033a9d6e6060101c1c5c5b5b8b573939396ddebc197fada2a2b270e142
+d19e7d7d7dd7ae5d2b4b3f40fe20ef28c6c993279b9b9b9b9b9b5fbc78919898989494141f1f4fd27efefcf96fdebcc9c8c8282d2dddb973e7a14387d6af5f8f
+103a72e4484d4d4d4d4d4d484888939313fefad6ad5b08a10b172e383939090482ecececf2f2f2d5ab57c7c4c47cfbedb7449f478f1ec5db171515d9dada7a79
+79353434480be0cc9933cecece767676376edc282929f1f7f7170a85a74f9f9671bc6d6d6dc9c9c9c1c1c1717171b24f454141c1e4c993190c466a6a6a555555
+6a6a6a4b4b8b8383434b4b8bc4088f1e3d2a71ebfdea07c883627f667500a818b3180e87939696265ae2e3e3b374e95269ed7b7a7a949595af5fbf4e945cb870
+212c2c4cb44d545494abab2bb1d8d1d1a1abab1b131323daa6aaaa8ac9649e3b770ec33006839191914154b5b5b52184b2b2b22406d0d1d13172e4c8d8d858d1
+c29f7ffe393232127fcde3f1ce9c39235aebeaea1a1515452c2625254d9932e5c993270c06a3aeae8e28279f0a4b4bcb3ffff9cfa2b59d9d9d2b57aeaca8a8c0
+306ce6cc999b366dc2cb959595434343d5d4d4aaaaaa887ed6ac59234b3f1445e903817aa1537aba7162075b6e6eaea6a6667c7c3cc92acb972f373737dfb56b
+d71f7ffcd1d9d9d9bb8158def9fdf7df11424d4d4d62cd162c5810101080fd77de696b6bdbb9732793c96c686890b8f5bcbc3c84d0f3e7cfa585c7e3f1545555
+192294949444f3ced4a9530f1f3e8c61988787c7860d1b887292a9282d2d45089597974bdba858de292828100a857676761f3e7cc044f24e9ffd0c65a27f6cc4
+50fa4080eb2cc5f0f7f757575757575767b1587e7e7ee1e1e12b56ac20699f9898181b1b5b545424140ad5d5d58542e1a3478f48da373636d2e9742d2d2db172
+232323e2624a281472b95c2e97cb62b162636393929274757525f6f6f2e54b2525253e9f4fb2c5d8d8d8fb22a64d9b4654ddbf7fbfb2b272d1a24508a1f0f0f0
+83070fb6b7b7f7391575757578c078b36ddbb6713fdab46993c4180e1e3c585b5bbb65cb16d1c201f43374cc9d3b37272747d1517c7a90771463cf9e3df7efdf
+bf7cf9b29595958383c3faf5eb95959549dab7b6b67a7979fddffffd5f757575454585a6a6a6939393e8d12b464f4fafb3b3b3b1b151acfcc993274472d9bb77
+effdfbf78b8a8a1a1a1a1a1b1bf1bc20adb79e9e9e172f5e8816e2776488457d7dfdb122381c0e51959090d0d2d2626c6c3c72e4487f7fffa6a6a69494943ea7
+424747072154535383370b0d0dc533dad4a9533b3a3a24c6a9a1a171ecd8b11d3b76dcbc7993281c403f43475b5b9bbbbbfbf04b3d90771483cfe79b9a9adada
+da5ebe7cf9debd7b4b962c21699c9e9ecee7f39b9b9bf1454343c3e8e8e8fafa7ae258eacddede5e4f4f2f212141b4f0f1e3c75959590b162cc017f5f4f40402
+81999999b4d31c828d8d0d9fcf3f79f2a468615c5c9c8d8d0df1019934cdcdcd292929696969c4a9d0dab56b45ef2e4b9b8af1e3c70b0482bd7bf7e28b9a9a9a
+028140201030994c92cd7dfdf5d7919191010101efdebd1b4c3f43c7fbf7efddddddfbfcb49162147da1d76f548c598cd84d8dbb77efaaaaaa1e3870405afbb6
+b6367373f3993367a6a5a53d7cf8f0ead5ab5e5e5e9696965d5d5d441bb1fb3b18866566663299cc55ab561515153d7dfaf4d4a953262626dedede3d3d3d58af
+fbca7d3a7efc388bc58a8989f9f7bfff5d5d5dbd7bf76e3a9d7efcf871bc96e4be727c7cfce8d1a345ab9e3e7daaa4a484dfb9209f8adcdc5cfce22b3b3bbba2
+a2e2ca952bcb962d5356564e4a4ac224dddfc15f7774744c9a34092144dc5726ef6728238e53369b7df5ea55b12a45453578d40b9dd2d38debfd21ceb66ddb38
+1c4e6565a5b455eaeaea0203030d0c0c545555b5b5b50302026a6b6b451bf4ce3b18861516167a7b7b6b6969b1582c2b2bab9f7ffe994855fdcd3b1886656464
+383a3af2783c2e976b6f6f9f9e9e4e5491e41d2b2bab8d1b378a75e5e2e2e2eded8dc93015151515414141464646743a5d4747c7cfcfeff6eddb7895b4bc8361
+585959198bc522f20e793f4399e8298258eaa1f48140bd477f51fa716500f40b8d46135d64b3d9191919b366cd42143f10e0fe0e0094f1fefd7b4f4fcf6170af
+877a2993d2699edcc3870f7d7c7c7a972f5bb66cddba755f4200408cd8f90e0e3feb993d7b36750f04ea1dc312df0900be40943b78092a8a0e6020a83bdd00f4
+8bc4bfb21c0ee7c2850bb367cf967f3c9f0adcdf01804af0a483df5aa62ec83b0050c6f0483a08f20e0054316c920e82bc0300250ca7a48320ef0030f40db3a4
+8328fa7916005f0e0e87939999e9e4e4a4e8403e2538df0160e862b158c32fe9208a7e6f907231033030393939d2920ea50f04ea854ee9e906e053a1f48100d7
+5900007983bc03009037c83b00007983bc03009037c83b00007983bc03009037c83b00007983bcf329d5d7d7070404f0f97c0683616161b165cb96aeae2e92f6
+5c2e97f6918a8a8abebe7e646464777777ef5a1c97cb4508b5b7b7d368b4fcfc7c92de44db1322222268345a6161a18c31f7d9616ff9f9f99e9e9e5a5a5a6a6a
+6af6f6f69999994495babafad9b367451bbbb9b9ad5ab5aacf08c9670921545656b664c9120303033a9d6e6060101c1c5c5b5b8b573939396ddebc197fada2a2
+b270e142d19e7d7d7dd7ae5d2b4b3fe0d382bcf329cd9f3fffcd9b37191919a5a5a53b77ee3c74e8d0faf5ebc9573979f264737333feeccdc4c4c4a4a4a4f8f8
+78a2f6f0e1c335222a2b2bc97b2369dfd6d6969c9c1c1c1c2cfaccbc3e63ee570067ce9c717676b6b3b3bb71e346494989bfbfbf50283c7dfa3479cc7d468848
+67a9a0a060f2e4c90c06233535b5aaaa2a3535b5a5a5c5c1c1a1a5a5456284478f1e95b8f57ef5030609fe2ff493c130eceeddbbd9d9d9b6b6b6082133333325
+25a54b972e91afc564328993080f0f0f1717973b77ee10b55a5a5a868686b2c740d2fed4a953028160e3c68d63c68ca9afafd7d7d7972566d903e8ecec0c0b0b
+8b8e8e8e8a8ac24bc2c3c3bbbbbb0b0a0ac4ce32a49118218e6496962f5f1e1414b47fff7e7cd1d8d8d8d6d6362222a2bebedec2c2426c13a1a1a13ffef8a383
+83839999995855bffa018325f727760d1649ccf823281568f9f2e5e6e6e6bb76edfae38f3f3a3b3bfb6c2ff6d4badcdc5c4d4dcdf8f87889b584b6b63684505e
+5e1e796f62a64e9d7af8f0610cc33c3c3c366cd8204bcce41d8ac9cbcb43083d7ffe5c5a031e8fa7aaaaca10a1a4a4843fdb8f3c4292592a2d2d45089597974b
+db68ef67fb0985423b3bbb0f1f3e6018e6e3e3833fdbafcf7e86202a1ebc04ea852e6dbaaf5fbfce62b1e41c4c6fe7cf9f5fba74a9a9a9299bcdf6f5f5257904
+2886611c0e87cd66f3783c1e8fc76432f5f5f5fffef7bf138ff4e470384c2693232222220223cd3b12db6318f6af7ffd4b5d5dbdb5b515c3b04b972e8d1c39b2
+adadadcf98493aeceddcb9734a4a4a2483e5f178717171652266cc9841e41d92084966e9ca952b08217c2d0cc37efae92722d4bffffdef98a4bcf3faf56b4343
+43fc11a644dee9b39f2188d27967985c67e5e4e4b8bbbbe307a402b5b6b67a797979797921846a6b6bb76eddeae4e4f4f8f1632693296d953d7bf6b8b8b83c7f
+fe3c2222c2d4d474fdfaf5cacacaa2b5df7cf30db1c8e3f1c80390d63e2121a1a5a5c5d8d8185f7cf5ea554a4a4a5050509f31cb1e809e9e5e4f4fcf8b172ff8
+7c3e51d8dcdcdcd6d64694e8ebeb8f1d3b96a8e57038c46b9208496649474707215453533366cc1884506868287e4db762c58a8e8e0e89716a68681c3b76ccd5
+d5d5cdcd8d281c403f6050149df8faad77ccb9b9b9c41eac9090706969696c36fbddbb7744c98b172f104224a73ca257106fdfbe353737170a85126b45f5f73a
+ebddbb775c2e37232383b83dbc76edda091326f41973bfaeb33e7cf8c0e7f37ffef967d1c2ad5bb71a191975777763a4cf502789907c967a7a7a040241585898
+583073e6ccc14f64a43d437df5ead5a3468d727676c69bf5d9cf1044c5839740f9f39dbcbcbc3973e6b4b6b62a3a10e4e6e6666060e0e9e9191919696161d1d8
+d8181717676969397af4685956e7f178a74e9d4d51127100001c8849444154b2b3b33b78f0604848085ef8ead52bb18f72757575f1172f5fbe24aa949494f0bb
+b012db1f3f7e9ccfe77b787810852b57ae8c8989c9c9c9e93366891daaa848d86d54545476efdebd7cf9f2cece4e5f5f5f1a8d969696b675ebd6a4a42425a53e
+3e36258950ecd767c4668946a3252525b9bababe7efdfafbefbf3732327af6ecd9f1e3c7b3b2b2844221c916a3a3a3b3b3b3af5cb9626d6d8d101a703f608014
+9df8fa4d3466d1339da1309cbababac0c0400303035555556d6ded808080dada5a92f6bd4f28b66ddbc6e17088d38ddeefd783070f7a5f4ef2783c92f6565656
+f8ed0c512e2e2edededee4314beb9064441919198e8e8e3c1e8fcbe5dadbdba7a7a7135524e73be41192cf128661151515414141464646743a5d4747c7cfcfef
+f6eddb7895b4f31d0cc3cacaca582c96e8e90c493f4390c2f7f6c1a0de4f07113f7724f14c8772c3016060e077bf1460e85c5e0100fa8b92f777a895741e3e7c
+e8e3e3d3bb7cd9b265ebd6ad937f3c8334cc860314827aa76a129f540fc0178872072f81c2e73b12ff7186baef0400fd42e93fc094bcbf3363c68c8b172ff6f9
+bfd10080a18992790741ea0180caa89a7710a41e00288bc2790741ea01809aa89d7710a41e002888f27907213463c68c8c8c0c895fea07000c41c321ef20849c
+9c9c323333592c96a2030100f48d92df1b941673ef7f5f0660b8a2f4ff67512f744a4f37009f0aa50f8461729d0500a010c83b00007983bc03009037c83b0000
+7983bc03009037c83b00007983bc03009037c83be2b85c2eed231515157d7dfdc8c8c8eeee6ef2b5f2f3f33d3d3db5b4b4d4d4d4eceded333333892a7575f5b3
+67cf8a367673735bb56a9568494444048d462b2c2cec57246565654b962c313030a0d3e9060606c1c1c1c433679c9c9c366fde8cbf565151117b42b9afafefda
+b56b65e947a2fafafa8080003e9fcf60302c2c2cb66cd9d2d5d585109a376f1ead17535353926192ac223a0484506161a1a7a7a78686069bcd9e3469d2be7dfb
+7a7a7a641c606fbababa621bc5db93cfb9682d8ef8c740922ad01be41d094e9e3cd9dcdcdcdcdcfce2c58bc4c4c4a4a4a4f8f87892f667ce9c717676b6b3b3bb
+71e346494989bfbfbf50283c7dfab48c9b6b6b6b4b4e4e0e0e0e8e8b8b933d92828282c9932733188cd4d4d4aaaaaad4d4d4969616070707893fc378e6cc99a3
+478f4adc7abffac1cd9f3fffcd9b37191919a5a5a53b77ee3c74e8d0faf5eb1142478e1cc19fba171212e2e4e484bfbe75eb16c930c957215cb870c1c9c94920
+10646767979797af5ebd3a2626e6db6fbf956580d2ecddbbb746043e04d4d7bb7ff8f061d1b52a2b2b65a9026228f93ba79f1b93c924fe58797878b8b8b8dcb9
+73475ae3cececeb0b0b0e8e8e8a8a828bc243c3cbcbbbbbba0a040ec8fb034a74e9d1208041b376e1c33664c7d7d3dfe04be3e2359be7c795050d0fefdfbf145
+6363635b5bdb888888fafa7a0b0b0bb14d848686fef8e38f0e0e0e6666666255fdea07218461d8ddbb77b3b3b36d6d6d11426666664a4a4a972e5d4208696969
+e16db85c2e83c1303434ec7398e4abe03a3b3b434242b66cd9b27af56abc64f1e2c5b6b6b6e3c78f4f4b4b9b3f7f3ef900a5d1d0d090b839f2775f4b4b4be25a
+e455400c9ceff4212f2feffaf5eb767676d21adcbe7dbba9a969c99225a2851111117bf6ec2116172f5ecc1471e5ca15d1c6070e1c0809093131317176762639
+b1128da4acacece1c3873ffcf08368035555d5f8f87889c962d9b2656e6e6e010101f80511a1bffd208468345a5050d08a152b76efde7de7ce9d0f1f3e787a7a
+feeffffeafb4b0fb3bccde6eddbad5d8d8483c2b1d6766663677eedc73e7ce910f7090fa7cf7c1c040de91c0dfdf5f5d5d5d5d5d9dc562f9f9f9858787af58b1
+425ae3972f5f2a2929f1f97c920e636363ef8b98366d1a5175fffefdcacaca458b162184c2c3c30f1e3cd8dedede67247575750821232323bcd9b66ddbb81f6d
+dab449620c070f1eacadadddb2658b68e100fa4108252626c6c6c6161515098542757575a150f8e8d12392e1f7394c728d8d8d743a9d38332218191935343490
+0f90c4f7df7f4f0c76ead4a94439f9bbbf68d122ae88c8c84859aa062c272767f09d0c41709d25c19e3d7b5c5c5c9e3f7f1e1111616a6aba7efd7a656565698d
+f5f4f47a7a7a5ebc78219a7a9a9b9bdbdada88127d7dfdb163c712b5a23f15949090d0d2d2626c6c8c2fbe7af52a252585f8db2e2d121d1d1d84504d4dcd9831
+631042a1a1a1f835dd8a152b3a3a3a24c6a9a1a171ecd831575757373737a27000fd20845a5b5bbdbcbcbcbcbc1042b5b5b55bb76e7572727afcf83193c994b6
+0af930c9e9e9e975767636363612cf86c73d79f244b444e20049fcf4d34fdededef86b0683419493bffb7bf6ecf9e69b6f88451e8f274bd580cd9d3bf7b7df7e
+1b7ebfb200e73b12f0f97c5353535b5bdbcb972fdfbb774fec1a4a8c8d8d0d9fcf3f79f2a468615c5c9c8d8d0df1818b34cdcdcd292929696969c4a9d0dab56b
+456fbb4a8b64fcf8f1028160efdebdf8a2a6a6a6402010080424473e42e8ebafbf8e8c8c0c080878f7eedd80fb494f4fe7f3f9cdcdcdf8a2a1a1617474747d7d
+7d4d4dcd808749cedede5e4f4f2f212141b4f0f1e3c75959590b162c201f20091d1d1dc147c4191feaebddd7d5d51588d0d6d696a56ac0dadadadcdddd87df59
+0fe41d323c1eefd4a953e9e9e9070f1e94d646454565f7eeddebd6addbb973677575f593274ff6ecd9b375ebd6eddbb72b29f531bdc78f1fe7f3f91e1e1e861f
+ad5cb9b2a4a4a4f77e2616098d464b4a4afae5975f162d5a74f5ead5cacacaecececefbefb2e2b2b0b3f7391263a3a5a5d5d9db8c134807edcdcdc0c0c0c3c3d
+3dd3d3d34b4b4baf5dbbf6fdf7df5b5a5a8e1e3d7af0c394484545e5d0a143313131ab57af2e2e2e7ef6ec596a6aeaecd9b35d5c5cf09bca24031c0c89effeab
+57af6aff1b714789a46a30debf7fefeeee7eeddab5c17735846054f3b963e67038696969a225dbb66de37038959595246b656464383a3af2783c2e976b6f6f9f
+9e9e4e54f178bc3367ce88367675758d8a8ac230cccaca6ae3c68d625db9b8b8787b7bcb12494545455050909191119d4ed7d1d1f1f3f3bb7dfb365e3573e6cc
+4d9b36e1af9595950b0a0a884ecacaca582cd69a356b8812927e24aaabab0b0c0c343030505555d5d6d60e0808a8adad156d101515e5eaea4a2c920f53e22a62
+43c030acb0b0d0dbdb5b4b4b8bc562595959fdfcf3cf5d5d5d320eb0371d1d9de4e4e4dee5e4732ef1b7741f3c78405e351844576c36fbead5ab625583ec5c81
+a8f7d34194feb92300fa45f4a1a06c363b232363d6ac594415750f04b8ce02801adebf7fefe9e9393c2eb8a897321595e61f3e7ce8e3e3d3bb7cd9b265ebd6ad
+937f3c9fdb3018ef301842ef87a013673d943edfa15ee8949e6e00faa577de411f53cfecd9b3a97b2050ef1896f84e00f005a2dcc14ba0e4f706a93bdd00f48b
+c4bfb21c0ee7c2850bb367cf967f3c9f0adc5706804af0a4437caa4551907700a08ce1917410e41d00a862d8241d047907004a184e490741de0160e81b664907
+51f4f32c00be1c1c0e2733337398fd14069cef003074b158ace197741045bf3748b9980118989c9c1c694987d20702f542a7f47403f0a950fa4080eb2c0080bc
+41de0100c85bff4ed5e07f3271d43dbf0503063b7f9f643f2efafd393a1c72b0ff7db160e727d1afe302aeb30000f206790700206f90770000f206790700206f
+90770000f206790700206f90770000f206790700206f90770000f206790700206f90770000f206790700206f90770000f206790700206f90770000f226a7bcb3
+7fff7e5a2f6c36dbd8d878d1a245a5a5a5b277356fde3c1a8df6f6eddbc1c453585898939333981e00e897df7efb6ddebc79bababa743a5d5757d7ddddfdcc99
+33626d06b05b8aade2ebeb4ba3d11a1b1b071defe725d7f39d891327fa8bf8faebafbbbaba4e9d3a65676757595929b7302e5dba346ddab4aaaa2ab96d117ce1
+d6ac59e3eeee7ee1c2051e8f676b6bcbe3f12e5dbab470e1c2808000e2b7c406b05b52774f96eb73fbbefdf6dbb56bd78a96b4b7b7070707a7a4a46cdebc3925
+25453e61343535f5f4f4c8675b00dcbb772f2626c6ccccecfcf9f396969678616969a98f8fcf891327dcdcdc020202d08076cbdeab1c3e7c78fffefd7c3eff53
+05ff9928f8fe0e93c9dcb3670f42e8ca952b8a8d0480cfe4d2a54b08a1cd9b3713490721346edcb8c4c44484d08913273ee1b6d4d5d5757575959486fa7d5bc5
+c7a7adad4da7d35b5a5a8892172f5e8487871b1b1bd3e9744343c3909090fafa7ab1b56a6a6a7c7c7cd4d4d4343434844261454585682d490f0101014b962c41
+082d5fbe9c46a39597977fe6f1018010426fdebc112b99366ddafffccfff04070723e9bb655151d1e2c58b0d0d0de9743a8fc77374743c7ffe3c5e257115b1fb
+3be487127ebfe9f1e3c70b172ed4d2d262b3d9d3a64dc3b3e46787f5477fdb13f6eddb8710dabe7d7befaadf7fff1d213471e2447cf1e9d3a706060608214747
+c71f7ffc117f16bd9e9edee3c78ff106dedede08215d5d5d3333b355ab56797b7bd368340d0d8d8a8a0a597ac8caca5aba74294268f1e2c5fbf6ed7bf3e64d7f
+c732e049009436e0f7bdb8b858494989cbe5c6c4c4d4d5d5496c2371b7bc75eb168bc55253535bb264c9aa55ab162c58a0a2a242a3d1b2b2b2a4ade2e3e38310
+6a6868c0643b94381c0e9fcf9f3367cea14387626262b4b4b4949595fff5af7f7deef95158dee9e9e979fdfa757a7aba91911142e8e8d1a378b98787074268df
+be7d44cb84840484d0ac59b3f0453cef585b5bb7b6b6e225478e1c4108797979c9d84372723242e8d0a143031b0be49d2fd360def7c4c444068381ffa5b7b4b4
+0c0b0b3b77ee5c4b4b8b689bdebba5b3b3338d46bb73e70e5172faf46984506060a0b45544f38e8c8712d11b866199999908a1b0b0b0018c71e8e61d89949494
+a2a2a27a7a7a300c6b6a6aa2d16853a64c115bddd6d61621545d5d8d7d9cacdf7efb4db4c1a44993949595dfbe7d2b4b0f9077c0000cf27dafaaaa5ab366cd57
+5f7d45ecf96a6a6adbb76fefeeeec61bf4de2dd3d3d38f1c3922da4953531342c8dddd5dda2a44de91fd50ba71e306518b5f0cbab8b80c6080fd9a1fb9dedf19
+3b76acbbbbbbbbbbfbf4e9d3f15b5f8181818f1e3d8a8d8dc51fbe535c5c8c61d8cc9933c5567470704008151515899510ecededbbbbbb4b4a4a64ef01007932
+3333dbb163476969697d7dfd891327fcfdfd3b3a3ad6ad5bf797bffc45da2adedede414141af5fbffefdf7df93929256ad5ae5eeee8e10eaeeeeee7373b21f08
+a3468d225e73b95c84506767673f07d76f72cd3bcb962dcbcccccccccccccfcf7ff0e0819191517272f28d1b378806efdebd43088d1831426c457d7d7d84506b
+6b2bbe3862c4087c82089a9a9a08a1969616197b00409edebf7f4fbcd6d3d35bbc78f1f1e3c78b8a8ab4b4b4f6efdfdfd0d02071ad67cf9e0985426d6d6d2727
+a7e0e0e0d4d4d4d1a34723d91e1f28fb81a0aaaa2ad64696fe0749619f678d1b37eefcf9f3cacaca818181b9b9b978a19a9a1a42a8f7a757f8e99f969616bed8
+3b1f373737238434353565ec0100f9e8e8e860b158d3a74fef5d3576ecd86fbffdb6bbbb5be287aadddddd6e6e6e67cf9e0d0909b97efd7a5353534d4d0dfea5
+13590cf10341919fa34f9a34e91ffff8477777b7bfbf3f9e38264c9840a3d16edebc299671f1c4445c1bb7b7b73f7dfa54b4c1bd7bf7e874faf8f1e365e9011e
+340ce486c160989999151515ddbb77af77edb367cf1042f8d7fcc476cb3b77ee949595b9babac6c7c73b3939e19902ff5a3fb16f93ecc9321e4a8aa2e0efefac
+5ab56aca9429b5b5b5f8f798478e1c3977eedce2e2e2fdfbf7136d8e1e3dfafbefbf3b3a3a1a1b1b1385717171c4eb9b376fe6e7e72f5ab488c562c9d2037e62
+f99ffffc470e0304202a2a0ac3304f4fcfb4b4b4aeae2ebcb0bdbdfda79f7efae73fff696d6d8d7f9f506cb7c43fff12bd206a696959b76e1d42e8c3870f7809
+c99e2cfba1a4189fef96b52892efef141717abaaaad268b4fcfc7c0cc3aaababf14bd059b366fde52f7f7175754508e9eaea565656e2edbdbdbd555454d86c76
+6868e8c58b17e3e2e2343434468d1af5e2c50bbc419f3d1414142084468c18f1cd37df949696f6772c039e0440698379df232222f0c34d5d5ddddada7ae2c489
+2c160b21a4a7a7477cef4c6cb7eceaea9a34691242c8d5d575fbf6ed5151514646461c0e87cd664f983041e22ad87f7f8e2ecba184107af9f22511279ed166ce
+9cf9b9e747f17907c3b0bffded6f08a1afbefaaaa3a303c3b0fafafad0d0500303033a9d6e6262121e1e8ecf23cedbdb9bc7e3ddbc7973c68c194c26534b4b2b
+2828a8b1b151b443f21e300c8b8888e0f1785c2e372323a3bf6381bcf3651ae4fb7ef5ead5c58b179b9a9ab2582c0e87f3a73ffd69e3c68d625f5b15db2debea
+ea962e5daaafafcf62b1cccdcd972c59525959e9e5e545a3d16a6a6a24ae229a7730190e2545e51d1ad69f7bd7345affda0f4b30095f2678dfc9f56b7e14ffff
+5900802f0de41d0080bc41de0100c81be41d0080bc41de0100c81be41d0080bc41de0100c81be41d0080bc41de0100c81be41d0080bc41de0100c81be41d0080
+bc41de0100c81be41d0080bc41de0100c81be41d0080bca9f47705f85174f0c5829dff53819f500300c81b5c670100e40df20e0040de20ef0000e40df20e0040
+de20ef0000e40df20e0040de20ef0000e40df20e0040de20ef0000e40df20e0040de20ef0000e40df20e5098a6a6261a8d565555a5e8403e97d8d8583b3b3b84
+d0dbb76f69345a7979b9a2231a2a20ef00f0d93199cc0d1b368c1c3952d1810c15fdfe1d0c00407f3199cce8e86845473184c0f9ce3067656515171787bf9e37
+6fdee4c993f1d7bffefaabb9b9f9606a65df0a42a8bebe7ec182051c0ec7d8d8f8af7ffd6b474707b16e5a5a9ab1b13197cb0d090921ca0f1c38306ad4282693
+3971e2c4cb972fe385d23a292b2b9b3973268bc5b2b3b3dbb163077e69535b5b4ba3d19e3c7982b7212e79a4f5835ff42525258d1e3d7ac4881173e6cca9afaf
+c7dbd7d5d5cd9f3f5f4d4d4d5f5f7ff3e6cde4c13c7cf8d0c1c181c562cd9831a3a1a1012f14bdcefae38f3f66cd9ac5e572d96cb6b3b3f3d3a74ff136a5a5a5
+8e8e8e2c16cbdada7ac78e1d63c78e4508353636d268b45dbb76696a6a0606064a5b1d0ffec48913a3468d62b3d97e7e7e252525d3a74fe770388e8e8e757575
+24b32a4ae2486b6a6a7c7d7d353535478e1cf9c30f3fb4b7b7cbbe45a93030acad5ebddadbdb1bc3b09e9e1e4d4d4d15159577efde6118161a1afac30f3f0ca6
+56f6ad6018666b6bebe3e353525272f3e6cd891327fef8e38f1886bd7cf91221646a6a9a939373e3c60d814010161686615871713187c3b974e9527575f5860d
+1bd4d4d45a5a5aa475d2d6d6666c6cfcdd77df3d7bf62c393999c3e1d8dada62185653538310aaaeaec623dcb973275e4e1e8c9d9d5d4d4d4d7d7dfdc48913f1
+60bababac68f1fefeaea5a545474f5ead5912347262626920713101050565676e8d0213a9d8e6ff4cd9b37787e6c6e6ed6d4d48c8a8a7afcf8f1ad5bb7fef4a7
+3f0506066218d6dede6e6262e2efef5f5a5afacb2fbfb058ac3163c6601886672e3b3bbb9c9c9cc2c24269abe3c1cf9c39f3e5cb979595954c26535757f78f3f
+fe78fdfab58d8d4d787838c9ac12248eb4adad6df4e8d11e1e1ec5c5c557af5e1d3d7a343e2db26c9104e49d612e3b3b5b4343a3bbbbbba8a84820105858585c
+be7c19c3303333b37ffef39f83a9957d2b3939392c16ebfdfbf778e39b376faaaaaa767474e0fbeed9b367f1f2b4b4340683d1dede7efefcf911234694979763
+18d6d1d1919595d5dede2ead13bc31710805070793e71df260323232f0f25dbb76595b5be3ed5555559f3f7f8e97a7a6a69e3c79525a27e9e9e9a2c7736060a0
+58de696c6cfce9a79f3a3b3bf1063b76ec983a752a8661bffefaab8686466b6b2b5e1e1e1e2e9a77ce9d3b87974b5b1d0ffee2c58b78b98d8d0d9e1d300cfbc7
+3ffe316bd62c0cc324ceaae89b2871a4a74f9fe672b96fdfbec50b2f5ebca8acacfcf6ed5b59b64802eeef0c733366cce8e8e8282e2ececbcb737070e8eeeece
+cfcf373737afabab7372725256561e70adec5b3976ec587b7bbbb6b636de18c3b00f1f3e5457576b6969218488cb1f1b1b9b8e8e8e7ffffbdfcececed6d6d663
+c78e9d346992a7a76770703083c1282b2b93d8497979b9b9b93987c3c1cb6d6d6d4b4a4a4826445a3f783026262678399bcdeeecec44089596961a1a1af2f97c
+bc7ce1c28508a103070e48eca4b4b45434982953a69496968a6e5d4747e7cf7ffef3e1c3878b8a8acacaca6edfbe6d696989102a2e2e1e376e1c9bcdc69bd9db
+db5fb9728558cbcccc8c7c759ca1a121fe82c16010afe9743a7e0d28715645639338d22d5bb68c1d3b96c7e311817577773f7af4c8d4d4b4cf2d9280bc33cc31
+180c2727a79c9c9cfcfc7c7777f7eeeeee9494144343434747477c2f1f4cad8c5be9eaea323636cecece165dc5c8c8a8b9b9195f172f515151c117592cd6b56b
+d7727373cf9f3f9f9c9cbc7ffffe828202699db0d9eceeee6ea2445555157f21f65bc85d5d5dc40b926088d5114218862184e8747aef9f5596d68958333a9d2e
+56d2d0d03065ca141313137777772f2fafbb77ef9e3f7f1e1f7b4f4f8fd8a609c46c4b5b1d874fa0c4e1238424ceaa85858568b4bdd7623018a2857860c48493
+6f9104dc571efe5c5d5daf5fbf9e9f9fefe0e0e0e0e05058589899993967ce9cc1d7cab8953163c6d4d6d632994c8140201008debe7dbb61c306e230abacacc4
+5f3c78f080cd661b1b1be7e6e6eed9b367e6cc99bb77efaeacace4703857ae5c91d6c9b871e32a2b2bdfbe7d8b7772fffe7dfc057eccffe73fffc1171f3d7a84
+bf200fa6377373f39a9a9a57af5ee18bbb76edf2f3f393d6c9f8f1e32b2b2bdfbd7b27160ce1d75f7fede9e9c9cbcb5bbf7efddcb9731b1a1af023d9d2d2b2ac
+acacadad0d6f76f7ee5d89c1485b5d161267b5cf917ef5d557656565c434deba754b5959592010c8b851a9c82fc3c030505e5e4ea7d3757575f1451d1d1d1a8d
+56565636f8da5f7ef9e5e4c9937db6eceeeeb6b2b2727070b87ffffebd7bf7264c98306fde3cece35d096767e7969696a6a6a62953a6fced6f7fc3302c2f2f4f
+5555353939b9a6a6e6d75f7fa5d3e9376fde94d6494f4fcfe4c993e7cd9b575e5e7ee6cc19e2be724f4f8fa9a9a9afaf6f5151516262a2a6a6265e4e1e0c31b4
+8484044b4b4bbc1f6b6bebf9f3e79797975fbf7e5d4747e7f0e1c3d23ae9e8e8b0b0b0100a85151515a74e9de272b962f7774e9c38c164327373735fbf7e9d94
+94c46030f0ad7cf8f0c1d4d474e9d2a5781b369b3d76ec58ece3fd9d478f1ee151495b5d2cf8e9d3a76fdfbe1d7fbd7dfbf6e9d3a74b9b55d13751e2483f7cf8
+f0d5575fcd9b37afb4b4343737572010040404c8b845129077be08a6a6a642a1107fedebeb6b6262f2496a67cf9eede3e3234bcb274f9e787a7a72381c2d2dad
+efbefb0ebf4f89efbb3b77ee1c33668ca6a6e60f3ffc40dc313d70e0804020a0d3e90281e0c89123249d6018f6f4e9535757570683616363b372e54ae273ab6b
+d7ae8d1b378ec160b8babac6c7c713e524c1f4ce3b1886555757cf993387c9641a1a1aeed8b1833c98c78f1fcf9e3d9bc5624d9a3469c3860d6279a7abab6be5
+ca951a1a1a3c1e6fd6ac590909094c2613ffecafa8a8c8d6d6964ea74f9e3c392c2c6cc2840958afbc236d7519b380c459157d13258eb4aaaa6ace9c392c168b
+cfe7474545b5b5b5f59eaefee61d788e0d1856626363cf9e3d7bebd62d4507d23f0d0d0da5a5a5b367cfc617376dda54585878e9d225c546f5f9c0fd1d0014af
+b3b3d3cdcd2d2929e9e9d3a7172f5e4c4848100a858a0eea3382cfb300503c13139363c78e6dddba352c2c4c4f4fefaf7ffd6b505090a283fa8ce03a0b00206f
+709d05009037c83b00007983bc03009037c83b00007983bc03009037c83b000079fb7fa429445a44a95ae70000000049454e44ae426082}}}}}
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\pagebb\ql\loch
+
+\par \pard\plain \s2\dbch\af8\langfe1081\dbch\af9\afs32\ab\ql\nowidctlpar\hyphpar0\sb200\sa120\keepn\ltrpar\cf0\loch\f4\fs32\lang1033\b\kerning1{\listtext\pard\plain  \u8203\'3f\tab}\ilvl0\ls1 \li0\ri0\lin0\rin0\fi0\ql\li0\ri0\lin0\rin0\fi0\ltrpar{\loch
+Description}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\listtext\pard\plain \dbch\af6\dbch\af6\loch\f6 \u8226\'95\tab}\ilvl0\ls2 \li720\ri0\lin720\rin0\fi-360\ql{\loch
+When searching for an available charging station, a robot will broadcast a message R_QUERY_AVAILABLE with the type of charging required. with a receiver ID of zero (broadcast to all stations within range).}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\li720\ri0\lin720\rin0\fi0\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\listtext\pard\plain \dbch\af6\dbch\af6\loch\f6 \u8226\'95\tab}\ilvl0\ls2 \li720\ri0\lin720\rin0\fi-360\ql{\loch
+Stations that are free and supports the capacity can respond with S_RESP_AVAILABLE, }{\loch
+indicating its\u8217\'92 position in the packet.}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\li720\ri0\lin720\rin0\fi0\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\listtext\pard\plain \dbch\af6\dbch\af6\loch\f6 \u8226\'95\tab}\ilvl0\ls2 \li720\ri0\lin720\rin0\fi-360\ql{\loch
+Robot will then send R_REQ_CHARGE }{\loch
+with }{\rtlch\dbch\af8\langfe1081\dbch\af9\afs24 \ltrch\cf0\fs24\lang1033\kerning1\loch
+RAND}{\loch
+ code}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\li720\ri0\lin720\rin0\fi0\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\listtext\pard\plain \dbch\af6\dbch\af6\loch\f6 \u8226\'95\tab}\ilvl0\ls2 \li720\ri0\lin720\rin0\fi-360\ql{\loch
+Available station will }{\loch
+ACK}{\loch
+ the request }{\loch
+(S_RESP_A}{\loch
+CCEPT}{\loch
+) }{\loch
+with RAND code.}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql{\loch
+\tab }{\loch
+Succeeding exchanges will start using the Hash(RAND code + counter) in the packet header.}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\li720\ri0\lin720\rin0\fi0\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\listtext\pard\plain \dbch\af6\dbch\af6\loch\f6 \u8226\'95\tab}\ilvl0\ls2 \li720\ri0\lin720\rin0\fi-360\ql{\loch
+Once the robot moves into position, it will send R_REQ_READY_TO_CHARGE}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\li720\ri0\lin720\rin0\fi0\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\listtext\pard\plain \dbch\af6\dbch\af6\loch\f6 \u8226\'95\tab}\ilvl0\ls2 \li720\ri0\lin720\rin0\fi-360\ql{\loch
+Station }{\loch
+will check the presence of the robot with a sensor. Confirmed, it }{\loch
+will inform that it is starting to send charging current }{\loch
+(S_RESP_START_CHARGE)}{\loch
+.}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\li720\ri0\lin720\rin0\fi0\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\listtext\pard\plain \dbch\af6\dbch\af6\loch\f6 \u8226\'95\tab}\ilvl0\ls2 \li720\ri0\lin720\rin0\fi-360\ql{\loch
+The Robot will periodically send a heartbeat containing the charge percentage}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\li720\ri0\lin720\rin0\fi0\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\listtext\pard\plain \dbch\af6\dbch\af6\loch\f6 \u8226\'95\tab}\ilvl0\ls2 \li720\ri0\lin720\rin0\fi-360\ql{\loch
+The charging station will also send a heartbeat. }{\loch
+It will also trickle down current as the charge percentage increases to near full.}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\li720\ri0\lin720\rin0\fi0\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\listtext\pard\plain \dbch\af6\dbch\af6\loch\f6 \u8226\'95\tab}\ilvl0\ls2 \li720\ri0\lin720\rin0\fi-360\ql{\loch
+Once done (battery became 100%), it will send a request to stop charging. }{\loch
+The robot BMS will also automatically start trickle charging to prevent damage.}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\li720\ri0\lin720\rin0\fi0\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\listtext\pard\plain \dbch\af6\dbch\af6\loch\f6 \u8226\'95\tab}\ilvl0\ls2 \li720\ri0\lin720\rin0\fi-360\ql{\loch
+Charging station will stop the charging process and send a response S_RELEASE_CHARGING.}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\li720\ri0\lin720\rin0\fi0\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\listtext\pard\plain \dbch\af6\dbch\af6\loch\f6 \u8226\'95\tab}\ilvl0\ls2 \li720\ri0\lin720\rin0\fi-360\ql{\loch
+The robot will move out of the charging position so that others can use the charging slot.}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\li720\ri0\lin720\rin0\fi0\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\listtext\pard\plain \dbch\af6\dbch\af6\loch\f6 \u8226\'95\tab}\ilvl0\ls2 \li720\ri0\lin720\rin0\fi-360\ql{\loch
+Once out, the robot will inform the charging }{\loch
+station}{\loch
+ that it }{\rtlch\dbch\af8\langfe1081\dbch\af9\afs24 \ltrch\cf0\fs24\lang1033\kerning1\loch
+has moved out of the station. }{\rtlch\dbch\af8\langfe1081\dbch\af9\afs24 \ltrch\cf0\fs24\lang1033\kerning1\loch
+The station will then be ready for next charge request.}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql{\loch
+Notes:}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\listtext\pard\plain \dbch\af6\dbch\af6\loch\f6 \u8226\'95\tab}\ilvl0\ls3 \li720\ri0\lin720\rin0\fi-360\ql{\loch
+ID of robot and charger are included in the packet except the broadcast packet where the ID will be 0.}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\listtext\pard\plain \dbch\af6\dbch\af6\loch\f6 \u8226\'95\tab}\ilvl0\ls3 \li720\ri0\lin720\rin0\fi-360\ql{\loch
+There is a retry counter if no response is received within a specified time for packets that requires a response. For packets that does not require a response, it will be ignored.}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\listtext\pard\plain \dbch\af6\dbch\af6\loch\f6 \u8226\'95\tab}\ilvl0\ls3 \li720\ri0\lin720\rin0\fi-360\ql{\loch
+Sequence number for each packet is also available to monitor any packet loss}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\listtext\pard\plain \dbch\af6\dbch\af6\loch\f6 \u8226\'95\tab}\ilvl0\ls3 \li720\ri0\lin720\rin0\fi-360\ql{\loch
+In the case of error packet reception, either side will have the logic to automatically handle the situation depending on the error. }
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\listtext\pard\plain \dbch\af6\dbch\af6\loch\f6 \u8226\'95\tab}\ilvl0\ls3 \li720\ri0\lin720\rin0\fi-360\ql{\loch
+Received packets that are unexpected are ignored (eh receiver ID not matched). For broadcast packet received, if Msg }{\rtlch\dbch\af8\langfe1081\dbch\af9\afs24 \ltrch\cf0\fs24\lang1033\kerning1\loch
+Type is not what is expected, it will be ignored.}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\li720\ri0\lin720\rin0\fi0\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \pard\plain \s2\dbch\af8\langfe1081\dbch\af9\afs32\ab\ql\nowidctlpar\hyphpar0\sb200\sa120\keepn\ltrpar\cf0\loch\f4\fs32\lang1033\b\kerning1{\listtext\pard\plain  \u8203\'3f\tab}\ilvl0\ls1 \li0\ri0\lin0\rin0\fi0\ql\li0\ri0\lin0\rin0\fi0\ltrpar{\loch
+Packet format}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2968\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx4319\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx6541\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Name}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Length (in bytes)}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Content}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Description}\cell\row\pard\trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2968\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx4319\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx6541\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Preamble }\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+2}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+0xA5, 0x81}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Packet indicator }{\loch
+(Can be different for a robot and a charging station)}\cell\row\pard\trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2968\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx4319\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx6541\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Source ID }\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+4}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\rtlch\dbch\af8\langfe1081\dbch\af9\afs24 \ltrch\cf0\fs24\lang1033\kerning1\loch
+nnnnnnnn}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Unique v}{\loch
+ehicle ID }{\loch
+or charging station ID}\cell\row\pard\trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2968\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx4319\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx6541\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Receiver ID}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+4}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+nnnnnnnn}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Unique vehicle/c}{\loch
+harg}{\loch
+ing station}{\loch
+ ID: 0 \u8211\'96 }{\rtlch\dbch\af8\langfe1081\dbch\af9\afs24 \ltrch\cf0\fs24\lang1033\kerning1\loch
+broadcast to everyone}\cell\row\pard\trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2968\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx4319\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx6541\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Sequence counter}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+2}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Number}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Counter for number of messages exchanged}\cell\row\pard\trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2968\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx4319\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx6541\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Retry counter}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+2}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Number}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Counter for the number of retries}\cell\row\pard\trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2968\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx4319\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx6541\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Last error}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+1}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+number}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Error code}\cell\row\pard\trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2968\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx4319\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx6541\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Exchange code}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+4}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+numbers}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Simple security code. }{\loch
+Last 4 digit of HASH(RAND }{\loch
+code of receiver}{\loch
+ + }{\loch
+increment counter}{\loch
+). }{\loch
+This security mechanism only protects the succeeding communications. It does not protect against a third-party from eavesdropping the start of the handshake and intruding. Before the handshake, this code is ignored.}\cell\row\pard\trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2968\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx4319\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx6541\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Data packet length in bytes }\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+2}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+number}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Size of data packet in number of bytes}\cell\row\pard\trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2968\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx4319\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx6541\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Data packet}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+variable}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar\loch
+\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Data packet }{\loch
+(see }{\rtlch\ai\ab \ltrch\i\b\loch
+Data Packet Format}{\loch
+)}\cell\row\pard\trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2968\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx4319\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx6541\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+CRC}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+2}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar\loch
+\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Checksum}\cell\row\pard\pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\nowidctlpar\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\pagebb\ql\loch
+
+\par \pard\plain \s2\dbch\af8\langfe1081\dbch\af9\afs32\ab\ql\nowidctlpar\hyphpar0\sb200\sa120\keepn\ltrpar\cf0\loch\f4\fs32\lang1033\b\kerning1{\listtext\pard\plain  \u8203\'3f\tab}\ilvl0\ls1 \li0\ri0\lin0\rin0\fi0\ql\li0\ri0\lin0\rin0\fi0\ltrpar{\loch
+Data }{\loch
+P}{\loch
+acket }{\loch
+F}{\loch
+ormat}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql{\loch
+Message type: R_QUERY_AVAILABLE}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2492\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3959\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx5939\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Name}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Length}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Content}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Description}\cell\row\pard\trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2492\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3959\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx5939\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Message Type}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+1}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+0x01}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Query if any of the nearby chargers are free and the charging current and capacity is supported.}\cell\row\pard\trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2492\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3959\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx5939\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\rtlch\dbch\af8\langfe1081\dbch\af9\afs24 \ltrch\cf0\fs24\lang1033\kerning1\loch
+Robot type}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\rtlch\dbch\af8\langfe1081\dbch\af9\afs24 \ltrch\cf0\fs24\lang1033\kerning1\loch
+2}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+nn}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\rtlch\dbch\af8\langfe1081\dbch\af9\afs24 \ltrch\cf0\fs24\lang1033\kerning1\loch
+Robot type}\cell\row\pard\trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2492\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3959\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx5939\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\rtlch\dbch\af8\langfe1081\dbch\af9\afs24 \ltrch\cf0\fs24\lang1033\kerning1\loch
+Charging current}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\rtlch\dbch\af8\langfe1081\dbch\af9\afs24 \ltrch\cf0\fs24\lang1033\kerning1\loch
+2}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+nn}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Current in mA}\cell\row\pard\pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\nowidctlpar\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql{\loch
+Message type: S_RESP_AVAILABLE}
+\par \trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2492\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3959\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx5939\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Name}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Length}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Content}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Description}\cell\row\pard\trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2492\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3959\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx5939\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Message Type}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+1}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+0x81}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Respond to query}\cell\row\pard\trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2492\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3959\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx5939\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Data}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+1}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+0x01 or 0x00}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Respond with availability: 1 is free, 0 \u8211\'96 unavailable}\cell\row\pard\trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2492\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3959\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx5939\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Location}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+1}{\loch
+6}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Position and location info}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Charging location, position, orientation, etc.}\cell\row\pard\trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2492\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3959\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx5939\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar\loch
+\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar\loch
+\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar\loch
+\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar\loch
+\cell\row\pard\pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\nowidctlpar\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql{\loch
+Message type: R_REQ_CHARGE}
+\par \trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2492\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3959\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx5939\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Name}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Length}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Content}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Description}\cell\row\pard\trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2492\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3959\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx5939\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Message Type}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+1}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+0x02}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Request to use charging station}\cell\row\pard\trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2492\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3959\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx5939\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\rtlch\dbch\af8\langfe1081\dbch\af9\afs24 \ltrch\cf0\fs24\lang1033\kerning1\loch
+RAND code}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+16}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+code}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Exchange code that will be used for succeeding exchange. }\cell\row\pard\pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\nowidctlpar\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql{\loch
+Message type: S_RESP_A}{\rtlch\dbch\af8\langfe1081\dbch\af9\afs24 \ltrch\cf0\fs24\lang1033\kerning1\loch
+CCEPT}
+\par \trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2492\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3959\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx5939\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Name}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Length}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Content}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Description}\cell\row\pard\trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2492\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3959\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx5939\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Message Type}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+1}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+0x82}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Accept }\cell\row\pard\trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2492\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3959\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx5939\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\rtlch\dbch\af8\langfe1081\dbch\af9\afs24 \ltrch\cf0\fs24\lang1033\kerning1\loch
+RAND code}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+16}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+code}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Exchange code that will be used for succeeding exchange. }\cell\row\pard\pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\nowidctlpar\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql{\loch
+Message type: R_REQ_READY_TO_CHARGE}
+\par \trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2492\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3959\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx5939\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Name}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Length}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Content}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Description}\cell\row\pard\trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2492\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3959\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx5939\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Message Type}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+1}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+0x03}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Request vehicle is in position and ready to start charging}\cell\row\pard\trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2492\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3959\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx5939\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Max charging current}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+1}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+nn}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Specify charging current}\cell\row\pard\pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\nowidctlpar\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql{\loch
+Message type: S_RESP_START_CHARGE}
+\par \trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2492\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3959\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx5939\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Name}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Length}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Content}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Description}\cell\row\pard\trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2492\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3959\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx5939\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Message Type}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+1}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+0x83}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Charging station can start pumping current}\cell\row\pard\trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2492\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3959\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx5939\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar\loch
+\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar\loch
+\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar\loch
+\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar\loch
+\cell\row\pard\pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\nowidctlpar\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql{\loch
+Message type: R_CHARGING_HEARTBEAT}
+\par \trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2492\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3959\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx5939\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Name}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Length}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Content}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Description}\cell\row\pard\trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2492\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3959\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx5939\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Message Type}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+1}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+0x04}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Charging heartbeat, also specify the percentage from BMS}\cell\row\pard\trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2492\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3959\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx5939\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Charging state/percentage}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+1}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+0-100%}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Charge percentage full}\cell\row\pard\pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\nowidctlpar\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql{\loch
+Message type: S_RESP_CHARGING_HEARTBEART}
+\par \trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2492\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3959\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx5939\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Name}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Length}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Content}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Description}\cell\row\pard\trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2492\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3959\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx5939\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Message Type}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+1}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+0x84}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Charging station can start pumping current}\cell\row\pard\trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2492\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3959\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx5939\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar\loch
+\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar\loch
+\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar\loch
+\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar\loch
+\cell\row\pard\pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\nowidctlpar\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql{\loch
+Message type: R_CHARGE_FULL/R_STOP_CHARGING}
+\par \trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2492\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3959\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx5939\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Name}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Length}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Content}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Description}\cell\row\pard\trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2492\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3959\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx5939\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Message Type}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+1}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+0x05}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Request to stop chargingBMS report charge is full}\cell\row\pard\trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2492\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3959\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx5939\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar\loch
+\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar\loch
+\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar\loch
+\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar\loch
+\cell\row\pard\pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\nowidctlpar\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql{\loch
+Message type: S_RELEASE_CHARGING}
+\par \trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2492\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3959\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx5939\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Name}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Length}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Content}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Description}\cell\row\pard\trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2492\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3959\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx5939\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Message Type}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+1}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+0x85}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Charger has stopped the charging}\cell\row\pard\trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2492\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3959\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx5939\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar\loch
+\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar\loch
+\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar\loch
+\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar\loch
+\cell\row\pard\pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\nowidctlpar\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql{\loch
+Message type: R_CHARGING_STATION_FREE}
+\par \trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2492\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3959\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx5939\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Name}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Length}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Content}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Description}\cell\row\pard\trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2492\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3959\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx5939\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Message Type}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+1}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+0x06}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Inform charging station that they can accept another robot. This tells the charging station whether they can start accepting another request or not.}\cell\row\pard\trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2492\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3959\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx5939\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar\loch
+\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar\loch
+\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar\loch
+\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar\loch
+\cell\row\pard\pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\nowidctlpar\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql{\loch
+Message type: R_ERROR}
+\par \trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2492\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3959\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx5939\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Name}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Length}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Content}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Description}\cell\row\pard\trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2492\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3959\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx5939\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Message Type}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+1}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+0x7F}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Error from robot side}\cell\row\pard\trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2492\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3959\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx5939\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Error }{\rtlch\dbch\af8\langfe1081\dbch\af9\afs24 \ltrch\cf0\fs24\lang1033\kerning1\loch
+code}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+1}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+nn}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar\loch
+\cell\row\pard\pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\nowidctlpar\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql{\loch
+Message type: S_ERROR}
+\par \trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2492\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3959\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx5939\clbrdrt\brdrs\brdrw2\brdrcf1\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Name}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Length}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Content}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\qc\nowidctlpar\ltrpar{\rtlch\ab \ltrch\cf17\b\loch
+Description}\cell\row\pard\trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2492\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3959\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx5939\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Message Type}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+1}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+0xFF}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Error from charging station side}\cell\row\pard\trowd\trql\trleft-1\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx2492\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx3959\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clpadfr3\clpadr55\cellx5939\clpadfl3\clpadl55\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt55\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfb3\clpadb55\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr55\cellx9973\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+Error }{\loch
+code}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+1}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar{\loch
+nn}\cell\pard\plain \s21\dbch\af8\langfe1081\dbch\af9\afs24\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\intbl\ql\nowidctlpar\ltrpar\loch
+\cell\row\pard\pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\nowidctlpar\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\pagebb\ql\loch
+
+\par \pard\plain \s2\dbch\af8\langfe1081\dbch\af9\afs32\ab\ql\nowidctlpar\hyphpar0\sb200\sa120\keepn\ltrpar\cf0\loch\f4\fs32\lang1033\b\kerning1{\loch
+Data struct}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql{\rtlch\afs22\hich\af7 \ltrch\fs22\loch\f7\loch
+typedef struct \{}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql{\rtlch\afs22\hich\af7 \ltrch\fs22\loch\f7\loch
+\tab uint16_t u16_preamble;}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql{\rtlch\afs22\hich\af7 \ltrch\fs22\loch\f7\loch
+\tab uint32_t u32_source_id;}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql{\rtlch\afs22\hich\af7 \ltrch\fs22\loch\f7\loch
+\tab uint32_t u32_receiver_id;}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql{\rtlch\afs22\hich\af7 \ltrch\fs22\loch\f7\loch
+\tab uint16_t u16_sequence_counter;}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql{\rtlch\afs22\hich\af7 \ltrch\fs22\loch\f7\loch
+\tab uint16_t u16_retry_counter;}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql{\rtlch\afs22\hich\af7 \ltrch\fs22\loch\f7\loch
+\tab uint16_t u16_last_error;}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql{\rtlch\afs22\hich\af7 \ltrch\fs22\loch\f7\loch
+\tab uint8_t u8a_exchange_code[4];}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql{\rtlch\afs22\hich\af7 \ltrch\fs22\loch\f7\loch
+\tab uint16_t u16_data_packet_length;}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql{\rtlch\afs22\hich\af7 \ltrch\fs22\loch\f7\loch
+\tab uint8_t data[];}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql{\rtlch\afs22\hich\af7 \ltrch\fs22\loch\f7\loch
+\} ROBO_CHARGING_SYSTEM_PACKET;}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\rtlch\afs22\hich\af7 \ltrch\fs22\loch\f7\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql{\rtlch\afs22\hich\af7 \ltrch\fs22\loch\f7\loch
+uint16_t u16_crc;}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\pagebb\ql\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\qc{\rtlch\ab \ltrch\b\loch
+END OF DOCUMENT}
+\par \pard\plain \s0\dbch\af8\langfe1081\dbch\af9\afs24\alang1081\ql\nowidctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\ql\loch
+
+\par }
